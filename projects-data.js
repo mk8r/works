@@ -743,5 +743,137 @@ const projects = [
       business: "A Belgian restaurant and caterer offering a diverse menu of world cuisine for dine-in, takeaway, and private events.",
       commitment: "Ongoing Google Ads management for local lead generation, including campaign setup, conversion tracking, and optimization."
     }
+  },
+  // /projects-data.js
+
+// Add these new projects to your existing 'projects' array
+
+  {
+    id: 23,
+    title: "Powering B2B Tech Recycling with High-Intent Lead Generation",
+    platform: "Google Ads",
+    tags: ["google-ads", "performance", "others"],
+    date: "August 2025",
+    description: "Developed a targeted B2B Google Ads strategy that increased qualified leads for IT asset disposition and e-waste recycling services by 320%.",
+    overview: "TechCycle Solution, a specialist in secure IT asset disposition (ITAD) and certified e-waste recycling, needed to connect with corporate clients and large organizations. The goal was to generate high-value leads from businesses looking for reliable and compliant tech recycling partners.",
+    approach: "We implemented a B2B-focused Google Search campaign targeting decision-makers with keywords like 'corporate e-waste disposal' and 'secure IT asset recovery'. The strategy included creating dedicated landing pages for different industries (e.g., healthcare, finance) and utilizing remarketing to nurture leads who downloaded informational whitepapers. Conversion tracking was optimized for quote requests and consultation bookings.",
+    stats: { stat1: { value: "+320%", label: "Qualified B2B Leads" }, stat2: { value: "-45%", label: "Cost Per Lead" }, stat3: { value: "18x", label: "Estimated ROAS" } },
+    images: [
+      "https://images.squarespace-cdn.com/content/v1/65e772c3e503d5011dfdcb0b/fc673190-377d-41c5-98e4-682b5bcc874a/shreddings.jpg?format=2500w"
+    ],
+    evidence: [
+      { icon: "briefcase", title: "B2B Keyword Targeting", description: "Focused on long-tail keywords used by IT Directors and Operations Managers to attract high-intent corporate clients." },
+      { icon: "shield", title: "Compliance-Focused Ad Copy", description: "Wrote compelling ads that highlighted data security and environmental compliance to build trust and drive conversions." },
+      { icon: "file-text", title: "Gated Content for Remarketing", description: "Used valuable whitepapers as lead magnets to build a highly effective remarketing audience for follow-up ads." }
+    ],
+    results: [
+      { icon: "trending-up", title: "320% Increase in B2B Leads", description: "Dramatically grew the sales pipeline with qualified inquiries from target industries." },
+      { icon: "dollar-sign", title: "Reduced Cost Per Acquisition", description: "Optimized bidding and targeting to lower the cost of acquiring a high-value corporate lead by 45%." },
+      { icon: "award", title: "Expanded Market Position", description: "Established TechCycle Solution as a leading authority in the competitive ITAD and e-waste landscape online." }
+    ],
+    testimonial: "The campaign was a resounding success. We are now connecting with the exact type of corporate clients we need, and our sales team has never been busier. The strategic approach to B2B lead generation was exactly what our business required.",
+    clientName: "Sarah Jennings",
+    clientTitle: "Operations Director, TechCycle Solution",
+    details: {
+      website: "https://www.techcyclesolution.com/",
+      business: "A certified provider of IT Asset Disposition (ITAD), data destruction, and electronics recycling services for businesses.",
+      commitment: "A 6-month Google Ads campaign focused on B2B lead generation and brand positioning."
+    }
+  },
+  {
+    id: 24,
+    title: "Unleashing Growth: Driving Local Bookings for a Premier Dog Academy",
+    platform: "Google Ads",
+    tags: ["google-ads", "performance"],
+    date: "July 2025",
+    description: "Executed a hyper-local Google Ads campaign that boosted class registrations and private training sessions by 250% for a specialized dog wellness academy.",
+    overview: "K9 Wellness Academy offers a range of services from puppy training to advanced behavioral therapy. They needed to increase their visibility in a competitive local market and drive a consistent flow of bookings from dog owners in their service area.",
+    approach: "A mobile-first, hyper-local strategy was deployed, targeting users within a 10-mile radius searching for 'dog training near me' and specific classes like 'puppy socialization'. We utilized call extensions and location-based ads to make it easy for users to connect. Ad scheduling was implemented to maximize budget during evenings and weekends when pet owners are most active in their search. Conversion tracking was set up for online form submissions and direct phone calls.",
+    stats: { stat1: { value: "+250%", label: "Class Bookings" }, stat2: { value: "-40%", label: "Cost Per Booking" }, stat3: { value: "Top 3", label: "Local Ad Rank" } },
+    images: [
+      "https://static.wixstatic.com/media/cc70e9_06dfa7e019394b59a44a2356758ca606~mv2.jpg/v1/fill/w_1905,h_665,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/cc70e9_06dfa7e019394b59a44a2356758ca606~mv2.jpg"
+    ],
+    evidence: [
+      { icon: "map-pin", title: "Radius Geo-Targeting", description: "Focused ad spend exclusively on users within a 10-mile radius to ensure all leads were from the local service area." },
+      { icon: "phone", title: "Click-to-Call Optimization", description: "Prioritized call extensions and call-only ads, which generated 60% of all new client inquiries." },
+      { icon: "calendar", title: "Ad Scheduling", description: "Analyzed peak search times to allocate the ad budget most effectively, improving lead volume without increasing spend." }
+    ],
+    results: [
+      { icon: "users", title: "Filled Training Classes", description: "The surge in leads consistently filled puppy and adult training classes, creating a waiting list." },
+      { icon: "dog", title: "Increased Private Consultations", description: "The campaign drove a significant increase in high-value private behavioral consultation bookings." },
+      { icon: "trophy", title: "Became a Local Leader", description: "Achieved top ad visibility for key search terms, establishing the academy as the go-to choice in the area." }
+    ],
+    testimonial: "Our classes are now consistently full, and our phone rings off the hook with qualified clients. The campaign was a game-changer for our local visibility and has driven incredible growth for the academy. We couldn't be happier with the results.",
+    clientName: "Marcus Thorne",
+    clientTitle: "Head Trainer, K9 Wellness Academy",
+    details: {
+      website: "http://www.k9wellnessacademy.com",
+      business: "A professional dog training and wellness center offering group classes, private training, and behavioral therapy.",
+      commitment: "An ongoing local lead generation campaign on Google Ads, focused on maximizing bookings and phone inquiries."
+    }
+  },
+  {
+    id: 25,
+    title: "Above the Competition: Scaling a Roofing Business with Targeted Leads",
+    platform: "Google Ads",
+    tags: ["google-ads", "performance"],
+    date: "June 2025",
+    description: "Launched a high-intent Google Ads campaign that increased qualified roofing estimate requests by 280% and captured high-value storm repair leads.",
+    overview: "Ace Roofing Enterprises, a full-service roofing contractor, needed to generate a reliable stream of high-quality leads for both residential and commercial projects. The key was to connect with property owners at the exact moment they needed roofing services, from emergency repairs to full replacements.",
+    approach: "We implemented a dual-funnel strategy. The first funnel targeted users with urgent needs, using keywords like 'emergency roof repair' with mobile-first, call-only ads. The second funnel targeted users in the research phase ('best roofing company', 'roof replacement cost'), directing them to a landing page offering a free, no-obligation estimate. We used precise location targeting and income demographics to focus on high-value service areas. All leads (calls and form fills) were tracked as conversions.",
+    stats: { stat1: { value: "+280%", label: "Quote Requests" }, stat2: { value: "-35%", label: "Cost Per Lead" }, stat3: { value: "20x", label: "ROAS" } },
+    images: [
+      "https://images.squarespace-cdn.com/content/v1/67cb35072f5ff277c886042d/1741555856022-2Q40F22TSIB24F8H1RTJ/unsplash-image-unQTdu2lCSQ.jpg?format=750w"
+    ],
+    evidence: [
+      { icon: "zap", title: "Emergency Lead Funnel", description: "Created call-only ads targeting users searching for urgent roof repairs, capturing immediate, high-value jobs." },
+      { icon: "file-text", title: "Free Estimate Landing Page", description: "Designed and optimized a dedicated landing page for non-urgent inquiries, maximizing the conversion rate for free estimate requests." },
+      { icon: "users-2", title: "Demographic Targeting", description: "Layered income and home-ownership data onto location targeting to focus ad spend on the most profitable neighborhoods." }
+    ],
+    results: [
+      { icon: "clipboard-list", title: "Surge in Qualified Estimates", description: "The campaign filled the sales pipeline with a consistent flow of high-quality quote requests for residential and commercial projects." },
+      { icon: "home", title: "Dominated Storm Repair Market", description: "The emergency funnel allowed Ace Roofing to become the first point of contact for homeowners after storm events." },
+      { icon: "trending-up", title: "Increased Profit Margins", description: "By reducing the cost per lead and attracting higher-value projects, the campaign directly contributed to increased business profitability." }
+    ],
+    testimonial: "This campaign has been the single best marketing investment we've ever made. The quality of leads is outstanding, and our schedule is booked solid for months. Sajjad's strategy for capturing both emergency and long-term projects has been incredibly effective.",
+    clientName: "David Chen",
+    clientTitle: "Owner, Ace Roofing Enterprises",
+    details: {
+      website: "https://www.aceroofingenterprises.com",
+      business: "A full-service roofing contractor providing residential and commercial roof repair, replacement, and maintenance.",
+      commitment: "A 9-month, performance-focused Google Ads campaign for local lead generation."
+    }
+  },
+  {
+    id: 26,
+    title: "Constructing Success: Generating High-Value Home Renovation Leads",
+    platform: "Google Ads",
+    tags: ["google-ads", "performance", "others"],
+    date: "May 2025",
+    description: "Engineered a lead generation campaign that delivered a 240% increase in high-end kitchen and bathroom renovation consultations for an Australian contractor.",
+    overview: "RenovaPlus specializes in premium home renovations in Australia, focusing on kitchens, bathrooms, and full-home makeovers. They needed a digital marketing strategy to attract homeowners with significant project budgets and a clear intent to hire a professional contractor.",
+    approach: "A sophisticated Google Ads campaign was built, targeting affluent postcodes and users searching for high-value terms like 'luxury kitchen remodel' and 'custom bathroom designer'. We created visually compelling ads that showcased their portfolio and directed users to an elegant landing page. The primary conversion goal was a 'Book a Consultation' form fill. We also utilized remarketing display ads, showing beautiful images of completed projects to users who had previously visited the website.",
+    stats: { stat1: { value: "+240%", label: "Consultation Leads" }, stat2: { value: "-50%", label: "Cost Per Lead" }, stat3: { value: "22x", label: "ROAS" } },
+    images: [
+      "https://renovaplus.com.au/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-31-at-14.11.51_73fd8452.jpg.webp"
+    ],
+    evidence: [
+      { icon: "gem", title: "High-Value Keyword Targeting", description: "Focused ad budget on keywords that indicate a search for premium, high-end renovation services, filtering out price-shoppers." },
+      { icon: "image", title: "Visual Portfolio Remarketing", description: "Launched Google Display Network ads to retarget past visitors with stunning images of their best work, keeping RenovaPlus top-of-mind." },
+      { icon: "user-check", title: "Affluent Demographic Targeting", description: "Layered demographic and location data to ensure ads were shown to homeowners in areas with high property values." }
+    ],
+    results: [
+      { icon: "users", title: "Increased High-End Clientele", description: "The campaign successfully attracted a new stream of clients with larger, more profitable renovation projects." },
+      { icon: "calendar", title: "Packed Consultation Schedule", description: "The consistent flow of qualified leads kept the design and sales team's calendars full with promising new projects." },
+      { icon: "award", title: "Enhanced Brand Prestige", description: "The high-quality ads and targeted approach elevated the RenovaPlus brand, positioning them as a leader in the luxury renovation market." }
+    ],
+    testimonial: "We are now getting in front of the exact clients we want to work with. The leads are not just numerous; they are for the high-end, full-scale projects that define our brand. This campaign has been transformative for our business growth.",
+    clientName: "Olivia Grant",
+    clientTitle: "Founder & Lead Designer, RenovaPlus",
+    details: {
+      website: "https://renovaplus.com.au/",
+      business: "A premium design and construction company in Australia specializing in high-end kitchen, bathroom, and home renovations.",
+      commitment: "A comprehensive Google Ads lead generation and brand positioning campaign, managed for 7 months."
+    }
   }
 ];

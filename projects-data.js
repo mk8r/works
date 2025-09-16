@@ -875,5 +875,247 @@ const projects = [
       business: "A premium design and construction company in Australia specializing in high-end kitchen, bathroom, and home renovations.",
       commitment: "A comprehensive Google Ads lead generation and brand positioning campaign, managed for 7 months."
     }
+  },
+  // /projects-data.js
+
+// Meta projects
+
+  {
+    id: 27,
+    title: "Dominating the Streetwear Niche: A High-ROAS Meta Ads Campaign",
+    platform: "Meta Ads",
+    tags: ["meta-ads", "performance", "others"],
+    date: "September 2025",
+    description: "Architected a full-funnel Meta Ads strategy for a streetwear brand, achieving a 14.5x ROAS and scaling their monthly revenue by 450% in just 4 months.",
+    overview: "Scape Threads, an emerging D2C streetwear brand, possessed a strong product line but struggled to acquire customers profitably at scale. They needed a robust advertising strategy to break through the noise, build a loyal community, and turn ad spend into significant revenue.",
+    approach: "I deployed a comprehensive 4-month strategy beginning with an advanced Pixel and server-side Conversions API (CAPI) setup for maximum data accuracy. The funnel was built in three stages: Top-of-funnel used engaging Reels and UGC-style video ads to attract new audiences. Middle-of-funnel retargeted engaged users with high-impact Collection Ads. Bottom-of-funnel leveraged Advantage+ Shopping and Dynamic Product Ads to convert cart abandoners and drive repeat purchases.",
+    stats: { stat1: { value: "14.5x", label: "Return On Ad Spend" }, stat2: { value: "+450%", label: "Revenue Growth" }, stat3: { value: "-55%", label: "Cost Per Acquisition" } },
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/scapethreads/a.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/scapethreads/b.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/scapethreads/c.jpg"
+    ],
+    evidence: [
+      { icon: "database", title: "Advanced Server-Side Tracking", description: "Implemented the Meta Conversions API (CAPI) to capture over 98% of conversion events, providing the algorithm with rich data for optimization." },
+      { icon: "shopping-cart", title: "Advantage+ Shopping Campaigns", description: "Leveraged Meta's AI to automate audience targeting and ad delivery for maximum e-commerce efficiency and sales volume." },
+      { icon: "video", title: "UGC Creative Testing", description: "Ran a structured A/B testing framework using authentic, user-generated style content that increased click-through rates by 200%." }
+    ],
+    results: [
+      { icon: "gem", title: "Exceptional ROAS", description: "Generated an average of $14.50 for every $1 spent, establishing a highly profitable and scalable advertising channel." },
+      { icon: "rocket", title: "Explosive Revenue Growth", description: "Scaled the brand's monthly revenue from Meta Ads by 450%, making it their primary source of new customer acquisition." },
+      { icon: "user-plus", title: "Increased Customer LTV", description: "The full-funnel approach not only drove initial sales but also increased the rate of repeat purchases by 35%." }
+    ],
+    testimonial: "The level of technical expertise and strategic insight was incredible. Our ad account was completely transformed, and the results have been nothing short of phenomenal. We're now scaling faster than we ever thought possible.",
+    clientName: "Alex Chen",
+    clientTitle: "Founder, Scape Threads",
+    details: {
+      website: "https://scapethreads.com/",
+      business: "A direct-to-consumer e-commerce brand specializing in premium, limited-edition streetwear and apparel.",
+      commitment: "A 4-month engagement for advanced tracking setup, full-funnel campaign architecture, management, and optimization."
+    }
+  },
+  {
+    id: 28,
+    title: "Sparkling Results: Hyper-Local Lead Generation for a Home Cleaning Service",
+    platform: "Meta Ads",
+    tags: ["meta-ads", "performance"],
+    date: "August 2025",
+    description: "Engineered a hyper-local Meta Ads campaign that increased weekly cleaning bookings by 300% and cut the cost per qualified lead by 70%.",
+    overview: "CleaningPal, a premium residential cleaning service, needed to dominate their local market and generate a consistent stream of high-quality booking requests. Their challenge was to stand out from competitors and efficiently reach homeowners ready to book.",
+    approach: "Within the first month, I established a robust lead tracking system using server-side events to measure not just initial inquiries but actual booked jobs. The 3-month campaign centered on Meta's Instant Lead Forms, allowing users to request a quote in seconds. Targeting was meticulously layered, combining precise zip code targeting with homeowner demographics and interests like 'Home Improvement'. Ad creative featured satisfying 'before & after' video content and trust-building testimonials.",
+    stats: { stat1: { value: "+300%", label: "Weekly Bookings" }, stat2: { value: "-70%", label: "Cost Per Lead" }, stat3: { value: "85%", label: "Lead-to-Booking Rate" } },
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/cleaningpal/a.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/cleaningpal/b.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/cleaningpal/c.jpg"
+    ],
+    evidence: [
+      { icon: "clipboard-list", title: "Frictionless Instant Lead Forms", description: "Utilized on-platform lead forms to capture user information seamlessly, resulting in a 5x higher lead submission rate than website forms." },
+      { icon: "map-pin", title: "Multi-Layered Geo-Targeting", description: "Combined zip code targeting with household income data to focus ad spend on the most profitable neighborhoods." },
+      { icon: "database", title: "Server-Side Offline Conversion Tracking", description: "Set up offline conversion uploads to inform Meta's algorithm which leads turned into paying customers, dramatically improving lead quality." }
+    ],
+    results: [
+      { icon: "calendar-check", title: "Consistent Booking Flow", description: "The campaign delivered a reliable and predictable stream of high-quality leads, filling the company's cleaning schedule weekly." },
+      { icon: "award", title: "Dominated Local Market", description: "Became the most visible cleaning service on social media within the target service area, capturing significant market share." },
+      { icon: "trending-down", title: "Massively Improved ROI", description: "By cutting the cost per lead by 70% and improving lead quality, the campaign's overall return on investment skyrocketed." }
+    ],
+    testimonial: "We are overwhelmed by the quality and quantity of the leads. Our booking calendar is full, and we're expanding our team to meet the demand. The technical setup to track actual jobs was a game-changer for our ROI.",
+    clientName: "Maria Rodriguez",
+    clientTitle: "Owner, CleaningPal",
+    details: {
+      website: "https://cleaningpal.co/",
+      business: "A premium, eco-friendly residential cleaning service offering one-time, recurring, and deep-cleaning packages.",
+      commitment: "A 3-month engagement for server-side tracking setup and hyper-local lead generation campaign management."
+    }
+  },
+  {
+    id: 29,
+    title: "Crafting Elegance: High-Value Lead Generation for a Luxury Kitchen Designer",
+    platform: "Meta Ads",
+    tags: ["meta-ads", "performance"],
+    date: "July 2025",
+    description: "Delivered a 350% increase in qualified design consultations for a high-end French kitchen brand, attracting projects with an average value of €50,000.",
+    overview: "Arthur Bonnet, a luxury kitchen designer in France, sought to attract affluent homeowners ready to invest in a premium renovation. The goal was to generate high-value consultation leads, not just website traffic, and to position the brand as the top choice for bespoke kitchen design.",
+    approach: "A 4-month campaign was meticulously crafted. It began with an advanced Pixel and CAPI installation to track the multi-step lead funnel. We targeted users in affluent postal codes around Lyon, layering interests like 'Luxury Real Estate', 'Interior Design', and 'Architectural Digest'. The creative strategy centered on high-fidelity video tours of completed kitchens and stunning Carousel ads showcasing their portfolio. All ads drove traffic to a dedicated landing page designed for a single action: booking a consultation.",
+    stats: { stat1: { value: "+350%", label: "Qualified Leads" }, stat2: { value: "€50k+", label: "Avg. Project Value" }, stat3: { value: "15:1", label: "Pipeline to Spend Ratio" } },
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/arthur-bonnet/a.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/arthur-bonnet/b.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/arthur-bonnet/c.jpg"
+    ],
+    evidence: [
+      { icon: "gem", title: "Affluent Audience Targeting", description: "Utilized postal code targeting combined with luxury interest layers to ensure ad spend was focused on high-net-worth individuals." },
+      { icon: "video", title: "High-Fidelity Video Showcase", description: "Produced and promoted cinematic video tours of completed kitchens, which proved to be the top-performing creative format for attracting qualified leads." },
+      { icon: "database", title: "CAPI for Lead Quality", description: "Used server-side tracking to send lead quality signals back to Meta, allowing the algorithm to optimize for users most likely to become high-value clients." }
+    ],
+    results: [
+      { icon: "users", title: "Attracted Premium Clientele", description: "The campaign successfully filled the sales pipeline with homeowners seeking high-end, bespoke kitchen renovation projects." },
+      { icon: "trending-up", title: "Massive Sales Pipeline Growth", description: "Generated a sales pipeline valued at over 15 times the ad spend, delivering an exceptional return on investment." },
+      { icon: "award", title: "Strengthened Brand Position", description: "Solidified Arthur Bonnet's reputation as the leading luxury kitchen designer in their target region through a premium online presence." }
+    ],
+    testimonial: "The quality of the leads is simply unparalleled. We are speaking with our ideal clients daily. The strategic and technical approach has filled our design schedule for the next year. Truly remarkable work.",
+    clientName: "Arthur Bonnet",
+    clientTitle: "Lead Designer, Arthur Bonnet Lyon",
+    details: {
+      website: "https://clickpage.fr/arthur-bonnet/lp-v1/",
+      business: "A luxury brand specializing in the design, manufacturing, and installation of high-end, custom kitchens in France.",
+      commitment: "A 4-month project for advanced tracking setup and high-value lead generation on the Meta platform."
+    }
+  },
+  {
+    id: 30,
+    title: "Unlocking a Niche Market: Scaling a Men's Wellness Brand on Meta",
+    platform: "Meta Ads",
+    tags: ["meta-ads", "performance"],
+    date: "June 2025",
+    description: "Drove a 9x ROAS for a men's wellness e-commerce brand, acquiring over 10,000 new customers in a 3-month period by mastering niche audience targeting.",
+    overview: "BSB LATES, a D2C brand in the men's wellness space, needed to efficiently acquire new customers for their specialized supplement products. The main challenge was educating the market and finding the right niche audience in a cost-effective manner.",
+    approach: "The 3-month strategy began with a deep dive into audience avatars, building custom audiences based on competitor data and wellness interests. I deployed an 'education-first' video funnel, using short-form content to explain the product benefits before asking for a sale. The campaign was heavily optimized through a rigorous A/B testing framework for both creative and audience segments. An advanced Pixel/CAPI setup ensured every purchase was tracked accurately, allowing for true ROAS-based scaling.",
+    stats: { stat1: { value: "9x", label: "ROAS" }, stat2: { value: "10k+", label: "New Customers" }, stat3: { value: "+40%", label: "Conversion Rate" } },
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/bsblates/a.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/bsblates/b.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/bsblates/c.jpg"
+    ],
+    evidence: [
+      { icon: "test-tubes", title: "Rigorous Creative A/B Testing", description: "Systematically tested over 20 different ad creatives and copy variations to identify the highest-performing combinations for scaling." },
+      { icon: "users-2", title: "Custom & Lookalike Audiences", description: "Built and refined custom audiences from website data and lookalikes from purchasers to consistently find new, high-intent buyers." },
+      { icon: "database", title: "Accurate ROAS-Based Scaling", description: "Leveraged precise data from a server-side tracking setup to confidently scale budgets on winning campaigns while maintaining a high ROAS." }
+    ],
+    results: [
+      { icon: "trending-up", title: "Highly Profitable Growth", description: "Achieved a consistent 9x Return On Ad Spend, providing the fuel for rapid and profitable business expansion." },
+      { icon: "user-plus", title: "Rapid Customer Acquisition", description: "Successfully acquired over 10,000 new customers in a single quarter, establishing a strong foothold in the market." },
+      { icon: "check-circle", title: "Increased Conversion Rate", description: "The optimized ad funnel and landing page experience resulted in a 40% uplift in the e-commerce conversion rate." }
+    ],
+    testimonial: "The growth has been incredible. We finally cracked the code on how to reach our target audience effectively. The data-driven approach and constant testing made all the difference, turning our ad spend into a powerful growth engine.",
+    clientName: "David Kim",
+    clientTitle: "CEO, BSB LATES",
+    details: {
+      website: "https://bsblates.com/",
+      business: "A direct-to-consumer e-commerce brand focused on providing specialized wellness supplements for men.",
+      commitment: "A 3-month intensive campaign for customer acquisition, creative testing, and ROAS optimization."
+    }
+  },
+  {
+    id: 31,
+    title: "Leveling Up: Driving SaaS Sign-ups for a Game Development Tool",
+    platform: "Meta Ads",
+    tags: ["meta-ads", "performance"],
+    date: "May 2025",
+    description: "Engineered a B2B Meta Ads funnel that increased free trial sign-ups by 500% for a SaaS tool targeting game developers and narrative designers.",
+    overview: "GameStoryWriter.com provides an innovative SaaS platform for creating branching narratives in video games. They needed to reach their highly niche audience of game developers and writers to drive user acquisition and ultimately, paid subscriptions.",
+    approach: "For this 2-month campaign, I built a strategy focused on precise B2B targeting. We used Meta's job title and interest targeting to reach professionals in the game development industry ('Game Developer', 'Narrative Designer', interests in 'Unity', 'Unreal Engine'). The creative strategy centered on screen-recorded demo videos showcasing the tool's powerful features. A retargeting layer was implemented to re-engage website visitors who didn't sign up, using testimonials from existing users as social proof.",
+    stats: { stat1: { value: "+500%", label: "Free Trial Sign-ups" }, stat2: { value: "-60%", label: "Cost Per Sign-up" }, stat3: { value: "30%", label: "Trial-to-Paid Rate" } },
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/gamestorywriter/a.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/gamestorywriter/b.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/gamestorywriter/c.jpg"
+    ],
+    evidence: [
+      { icon: "briefcase", title: "Professional Audience Targeting", description: "Utilized Meta's detailed targeting to serve ads exclusively to users with relevant job titles, employers, and technical interests." },
+      { icon: "video", title: "Product Demo Video Ads", description: "Created and promoted short, engaging video ads that demonstrated the tool's core functionality, driving high-quality traffic." },
+      { icon: "database", title: "Pixel & CAPI for Funnel Tracking", description: "Implemented a full tracking setup to monitor the user journey from ad click to free trial to paid subscription, optimizing for lifetime value." }
+    ],
+    results: [
+      { icon: "users", title: "Massive User Base Growth", description: "Scaled the platform's user acquisition efforts, resulting in a 500% increase in new free trial sign-ups." },
+      { icon: "trending-down", title: "Efficient Cost Per Acquisition", description: "Refined targeting and creative led to a 60% reduction in the cost to acquire a new user, making the acquisition model sustainable." },
+      { icon: "arrow-up-circle", title: "Increased MRR", description: "The high quality of acquired users resulted in a strong 30% conversion rate from free trial to paid subscriber, directly boosting monthly recurring revenue." }
+    ],
+    testimonial: "We're finally reaching our exact target audience. The campaign didn't just bring us sign-ups; it brought us future paying customers who genuinely need our tool. The growth in our user base has been phenomenal.",
+    clientName: "Jessica Riley",
+    clientTitle: "Head of Marketing, GameStoryWriter.com",
+    details: {
+      website: "https://gamestorywriter.com/",
+      business: "A SaaS platform providing an intuitive tool for writers and developers to create interactive, branching narratives for games.",
+      commitment: "A 2-month, high-intensity campaign focused on SaaS user acquisition and CPL optimization."
+    }
+  },
+  {
+    id: 32,
+    title: "Peak Performance: Scaling an Outdoor Gear E-commerce Store with Dynamic Ads",
+    platform: "Meta Ads",
+    tags: ["meta-ads", "performance"],
+    date: "April 2025",
+    description: "Leveraged Meta's Dynamic Ads and Advantage+ to grow an outdoor gear retailer's online sales by 350%, achieving an 11x ROAS on a large product catalog.",
+    overview: "Osprey Sports, a retailer with a vast catalog of outdoor and sporting goods, needed an efficient way to advertise thousands of products. Their goal was to move beyond manual campaigns and use automation to drive profitable sales across their entire inventory.",
+    approach: "The 4-month strategy was centered around the Meta product catalog. After setting up an immaculate server-side tracking and catalog integration, we launched an Advantage+ Shopping Campaign to let Meta's AI find new customers. This was paired with a powerful Dynamic Product Ad (DPA) campaign for retargeting, which showed users hyper-relevant ads based on the specific products they viewed, added to cart, or purchased in the past (for cross-selling).",
+    stats: { stat1: { value: "11x", label: "ROAS" }, stat2: { value: "+350%", label: "Catalog Sales" }, stat3: { value: "+60%", label: "Average Order Value" } },
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/ospreysports/a.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/ospreysports/b.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/ospreysports/c.jpg"
+    ],
+    evidence: [
+      { icon: "shopping-cart", title: "Dynamic Product Ads (DPA)", description: "Served personalized ads to millions of users, automatically showcasing the most relevant products from a catalog of over 5,000 SKUs." },
+      { icon: "bot", title: "Advantage+ Shopping", description: "Utilized Meta's most powerful AI-driven campaign type to efficiently find new customers and maximize total purchase value." },
+      { icon: "users-2", title: "Interest-Based Audience Segmentation", description: "Created broad top-of-funnel campaigns targeting specific sports and activities (e.g., Hiking, Cycling) to feed the retargeting engine." }
+    ],
+    results: [
+      { icon: "trending-up", title: "Profitable Scalability", description: "The automated campaigns allowed for a significant increase in budget while maintaining a highly profitable 11x average ROAS." },
+      { icon: "package", title: "Increased Sales Across Catalog", description: "Drove a 350% increase in sales attributed to Meta Ads, including for many products that were not previously top sellers." },
+      { icon: "dollar-sign", title: "Higher Average Order Value", description: "The smart cross-selling and product recommendations from the dynamic ads led to a 60% increase in the average customer's cart size." }
+    ],
+    testimonial: "The automation and dynamic ads were a revelation. We're finally advertising our entire catalog effectively without manual effort. The sales growth has been incredible, and our ad spend is more efficient than ever.",
+    clientName: "Brian Miller",
+    clientTitle: "E-commerce Director, Osprey Sports",
+    details: {
+      website: "https://ospreysports.com/",
+      business: "A large e-commerce retailer offering a wide range of sporting goods, outdoor gear, and apparel.",
+      commitment: "A 4-month project to set up advanced server-side tracking, product catalog integration, and scale sales with automated campaigns."
+    }
+  },
+  {
+    id: 33,
+    title: "Weaving Comfort into Profit: A Meta Ads Campaign for Home Goods",
+    platform: "Meta Ads",
+    tags: ["meta-ads", "performance", "others"],
+    date: "March 2025",
+    description: "Built a lifestyle-focused Meta Ads campaign for a home comfort brand, resulting in a 10x ROAS and a 40% increase in repeat customer rate.",
+    overview: "Comfy Land sells premium home goods like weighted blankets and plush pillows. Their marketing needed to evoke a feeling of comfort and relaxation, connecting with customers on an emotional level to drive sales.",
+    approach: "The 3-month strategy focused on lifestyle creative. We used high-quality video ads showing real people enjoying the products in cozy home settings. The primary ad format was the Collection Ad, which created an immersive, full-screen shopping experience. Targeting focused on life events ('Recently Moved') and interests ('Interior Design', 'Home Decor'). A key part of the strategy was building a post-purchase retargeting flow to encourage repeat business and increase customer lifetime value.",
+    stats: { stat1: { value: "10x", label: "ROAS" }, stat2: { value: "+40%", label: "Repeat Customer Rate" }, stat3: { value: "-50%", label: "CPA" } },
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/comfy-land/a.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/comfy-land/b.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/comfy-land/c.jpg"
+    ],
+    evidence: [
+      { icon: "layout-template", title: "Immersive Collection Ad Format", description: "Used full-screen Collection Ads to create a rich, shoppable experience directly within the Facebook and Instagram apps." },
+      { icon: "home", title: "Life Event & Interest Targeting", description: "Targeted users who recently moved or showed strong interest in home decor to find customers at the perfect buying moment." },
+      { icon: "database", title: "Advanced Pixel & CAPI Setup", description: "Ensured rock-solid tracking of all e-commerce events, from initial view to repeat purchase, to optimize for long-term customer value." }
+    ],
+    results: [
+      { icon: "trending-up", title: "Consistent, Profitable Sales", description: "Maintained an average 10x Return On Ad Spend, proving the effectiveness of the lifestyle-driven marketing approach." },
+      { icon: "refresh-cw", title: "Boosted Customer Loyalty", description: "The post-purchase retargeting strategy was a huge success, leading to a 40% increase in customers making a second purchase." },
+      { icon: "mouse-pointer", title: "Higher Engagement Rates", description: "The visually appealing, emotion-focused creative resonated with audiences, leading to significantly higher engagement and lower ad costs." }
+    ],
+    testimonial: "The campaign perfectly captured the essence of our brand. The focus on lifestyle and comfort resonated with our audience and translated directly into profitable sales and, more importantly, loyal customers.",
+    clientName: "Sophie Williams",
+    clientTitle: "Founder, Comfy Land",
+    details: {
+      website: "https://comfy-land.com/",
+      business: "A D2C e-commerce brand focused on high-quality home comfort goods, including blankets, pillows, and loungewear.",
+      commitment: "A 3-month Meta Ads campaign focused on brand storytelling, e-commerce sales, and customer lifetime value optimization."
+    }
   }
 ];

@@ -58,7 +58,7 @@
                 <ul class="space-y-3 text-gray-600">
                     <li class="flex items-start">
                         <i data-lucide="dollar-sign" class="w-5 h-5 text-blue-500 mr-3 mt-1 flex-shrink-0"></i>
-                        <span> Generated <strong>$77M revenue increase</strong> in just six months.</span>
+                        <span> Generated <strong>$7M revenue increase</strong> in just six months.</span>
                     </li>
                     <li class="flex items-start">
                         <i data-lucide="trending-up" class="w-5 h-5 text-blue-500 mr-3 mt-1 flex-shrink-0"></i>
@@ -73,6 +73,7 @@
                         <span>Consistently delivered <strong>95% of projects ahead of schedule</strong>.</span>
                     </li>
                 </ul>
+        
             </div>
         </div>
 
@@ -169,16 +170,20 @@
         <section id="projects" class="py-20">
             <h2 class="text-4xl font-bold text-center mb-12 scroll-animate">My Projects</h2>
             
-            <div id="project-filters" class="flex flex-wrap justify-center gap-3 mb-12 scroll-animate">
-                <button class="filter-btn active" data-category="all">(All)</button>
-                <button class="filter-btn" data-category="google-ads">Google Ads</button>
-                <button class="filter-btn" data-category="meta-ads">Meta Ads</button>
-                <button class="filter-btn" data-category="tiktok-ads">TikTok Ads</button>
-                <button class="filter-btn" data-category="performance">Performance</button>
-                <button class="filter-btn" data-category="seo">SEO</button>
-                <button class="filter-btn" data-category="wordpress">WordPress</button>
-                <button class="filter-btn" data-category="others">Others</button>
-            </div>
+           <div id="project-filters-container" class="relative">
+    <span id="active-indicator" class="absolute h-full rounded-full bg-blue-600 transition-all duration-300 ease-in-out"></span>
+
+    <div id="project-filters" class="relative flex flex-wrap justify-center gap-x-3 gap-y-2">
+        <button class="filter-btn active" data-category="all">(All)</button>
+        <button class="filter-btn" data-category="google-ads">Google Ads</button>
+        <button class="filter-btn" data-category="meta-ads">Meta Ads</button>
+        <button class="filter-btn" data-category="tiktok-ads">TikTok Ads</button>
+        <button class="filter-btn" data-category="performance">Performance</button>
+        <button class="filter-btn" data-category="seo">SEO</button>
+        <button class="filter-btn" data-category="wordpress">WordPress</button>
+        <button class="filter-btn" data-category="others">Others</button>
+    </div>
+</div>
 
             <div id="projects-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 </div>

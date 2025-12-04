@@ -64,7 +64,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
         filteredProjects.forEach(project => {
             const projectCard = document.createElement('div');
-            // FIX: Added 'flex flex-col' to make the card a flex container
+            
+            // LOGIC CHANGE: Use the slug if it exists, otherwise use the ID
+            const projectIdentifier = project.slug ? project.slug : project.id;
+
+            // Updated HREF to use clean 'projects/#' structure
+            // NOTE: Requires 'project.html' to be renamed to 'index.html' inside the /projects/ folder
             projectCard.className = "bg-white rounded-lg shadow-lg overflow-hidden transform hover:-translate-y-2 transition-transform duration-300 scroll-animate flex flex-col";
             projectCard.innerHTML = `
                 <div class="relative">
@@ -78,7 +83,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     
                     <div class="flex justify-between items-center mt-auto pt-4 border-t border-gray-100">
                         <span class="text-xs text-gray-500 font-medium">${project.date}</span>
-                        <a href="projects/project.html?id=${project.id}" class="text-blue-500 hover:underline font-semibold">View Details →</a>
+                        <a href="projects/#${projectIdentifier}" class="text-blue-500 hover:underline font-semibold">View Details →</a>
                     </div>
                 </div>
             `;

@@ -1,6 +1,7 @@
 const projects = [
   {
     id: 5,
+    slug: "merit-autos",
     title: "Driving High-Quality Leads for a Premier Car Dealership",
     platform: "Google & Meta Ads",
     tags: ["google-ads", "meta-ads", "performance"],
@@ -35,6 +36,7 @@ const projects = [
   },
   {
     id: 1,
+    slug: "vehicle-defence-keys",
     title: "High-Octane Lead Generation for Automotive Security",
     platform: "Google Ads & SEO",
     tags: ["google-ads", "performance", "seo", "wordpress"],
@@ -69,6 +71,7 @@ const projects = [
   },
   {
     id: 2,
+    slug: "creation-culinary-catering",
     title: "Premium Catering Booking Growth",
     platform: "Google Ads",
     tags: ["google-ads", "performance"],
@@ -92,7 +95,7 @@ const projects = [
       { icon: "calendar-check", title: "200+ Monthly Bookings", description: "Consistently generated over 200 high-value bookings each month, providing a stable and predictable stream of revenue." },
       { icon: "target", title: "Dominated Local Market", description: "Established the client as a leading choice for premium catering services in their target area through strategic ad placement and messaging." }
     ],
-    testimonial: "Working with Sajjad was the best marketing decision we've ever made. Our booking calendar has never been this full, and the growth is consistent and reliable. His expertise in Google Ads is undeniable, and the results—doubling our bookings—speak for themselves. Truly phenomenal.",
+    testimonial: "Working with Sajjad was the best marketing decision we've ever made. Our booking calendar has never been this full, and the growth is consistent and reliable. His expertise in Google Ads is undeniable, and the results-doubling our bookings-speak for themselves. Truly phenomenal.",
     clientName: "David Chen",
     clientTitle: "Owner, Creation Culinary Catering",
     details: {
@@ -103,6 +106,7 @@ const projects = [
   },
   {
     id: 3,
+    slug: "overrig-supply",
     title: "Automotive Parts ROAS Mastery",
     platform: "Google Ads",
     tags: ["google-ads", "performance"],
@@ -137,6 +141,7 @@ const projects = [
   },
   {
     id: 4,
+    slug: "compare-airport-parking-extras",
     title: "Airport Parking ROAS Record",
     platform: "Google Ads",
     tags: ["google-ads", "performance"],
@@ -171,6 +176,7 @@ const projects = [
   },
   {
     id: 6,
+    slug: "lumiskn",
     title: "Scaling Skincare E-commerce with Performance Max",
     platform: "Google Ads",
     tags: ["google-ads", "performance", "others"],
@@ -205,6 +211,7 @@ const projects = [
   },
   {
     id: 7,
+    slug: "jackon-remodeling",
     title: "Generating High-Value Leads for Home Remodeling",
     platform: "Google Ads",
     tags: ["google-ads", "performance"],
@@ -239,6 +246,7 @@ const projects = [
   },
   {
     id: 8,
+    slug: "doctornow-pt",
     title: "Driving Patient Appointments for a Health-Tech Platform",
     platform: "Google Ads",
     tags: ["google-ads", "performance"],
@@ -272,6 +280,7 @@ const projects = [
   },
   {
     id: 9,
+    slug: "memorial-springs-er",
     title: "Urgent Patient Acquisition for an Emergency Room",
     platform: "Google Ads",
     tags: ["google-ads", "performance"],
@@ -306,6 +315,7 @@ const projects = [
   },
   {
     id: 10,
+    slug: "txeins-de",
     title: "Driving Insurance Policy Quotes in the German Market",
     platform: "Google Ads",
     tags: ["google-ads", "performance"],
@@ -339,6 +349,7 @@ const projects = [
   },
   {
     id: 11,
+    slug: "webrtccourse",
     title: "Boosting Course Enrollments for WebRTC Training",
     platform: "Google Ads & Meta Ads",
     tags: ["google-ads", "meta-ads", "performance"],
@@ -373,6 +384,7 @@ const projects = [
   },
   {
     id: 12,
+    slug: "acorn-school-of-motoring",
     title: "Dominating Local Search for Driving Lesson Bookings",
     platform: "Google Ads & SEO",
     tags: ["google-ads", "seo", "performance"],
@@ -407,6 +419,7 @@ const projects = [
   },
   {
     id: 13,
+    slug: "katy-lakes-dentistry",
     title: "Increasing New Patient Appointments for a Dental Practice",
     platform: "Google Ads & SEO",
     tags: ["google-ads", "seo", "performance"],
@@ -423,7 +436,7 @@ const projects = [
     evidence: [
       { icon: "file-text", title: "Dental Service Page SEO", description: "Performed on-page SEO for all key service pages to rank for high-value patient search queries." },
       { icon: "star", title: "Reputation Management", description: "Implemented a strategy to encourage satisfied patients to leave positive reviews, boosting local SEO signals." },
-      { icon: "phone", title: "Call-Focused Ad Campaigns", description: "Used call extensions and call tracking in Google Ads to optimize for the highest-quality leads—direct phone calls." }
+      { icon: "phone", title: "Call-Focused Ad Campaigns", description: "Used call extensions and call tracking in Google Ads to optimize for the highest-quality leads-direct phone calls." }
     ],
     results: [
       { icon: "user-plus", title: "180% More New Patients", description: "Significantly grew the practice by increasing the number of new patient appointments month-over-month." },
@@ -441,6 +454,7 @@ const projects = [
   },
   {
     id: 14,
+    slug: "modern-clim",
     title: "Generating HVAC Installation Leads in the French Market",
     platform: "Google Ads",
     tags: ["google-ads", "performance", "others"],
@@ -475,6 +489,7 @@ const projects = [
   },
   {
     id: 15,
+    slug: "homestuff-co-uk",
     title: "Scaling a UK Home Goods E-commerce Store",
     platform: "Google Ads",
     tags: ["google-ads", "performance"],
@@ -509,6 +524,7 @@ const projects = [
   },
   {
     id: 16,
+    slug: "rocket-cleaning-solutions",
     title: "Organic Growth for Commercial Cleaning Services",
     platform: "Google Ads & SEO",
     tags: ["google-ads", "seo", "performance", "wordpress"],
@@ -543,6 +559,7 @@ const projects = [
   },
   {
     id: 17,
+    slug: "raftmetal-ro",
     title: "Driving B2B Leads for Industrial Metal Solutions in Romania",
     platform: "Google, Meta Ads & SEO",
     tags: ["google-ads", "meta-ads", "seo", "performance"],
@@ -577,6 +594,7 @@ const projects = [
   },
   {
     id: 18,
+    slug: "knight-bain",
     title: "Generating High-Value Property Valuations for a UK Estate Agent",
     platform: "Google, Meta Ads & SEO",
     tags: ["google-ads", "meta-ads", "seo", "performance"],
@@ -611,6 +629,7 @@ const projects = [
   },
   {
     id: 19,
+    slug: "artistry-italian-fashion",
     title: "Scaling Italian Fashion E-commerce with Google Shopping",
     platform: "Google Ads",
     tags: ["google-ads", "performance"],
@@ -645,6 +664,7 @@ const projects = [
   },
   {
     id: 20,
+    slug: "kenna-sato-designs",
     title: "Generating High-Value Client Leads for a Design Studio",
     platform: "Google Ads",
     tags: ["google-ads", "performance"],
@@ -679,6 +699,7 @@ const projects = [
   },
   {
     id: 21,
+    slug: "applyai-pro",
     title: "Driving User Subscriptions for an AI SaaS Platform",
     platform: "Google Ads",
     tags: ["google-ads", "performance"],
@@ -713,6 +734,7 @@ const projects = [
   },
   {
     id: 22,
+    slug: "trois-saveurs",
     title: "Boosting Bookings for a Belgian World Cuisine Restaurant",
     platform: "Google Ads",
     tags: ["google-ads", "performance", "others"],
@@ -750,6 +772,7 @@ const projects = [
 
   {
     id: 23,
+    slug: "techcycle-solution",
     title: "Powering B2B Tech Recycling with High-Intent Lead Generation",
     platform: "Google Ads",
     tags: ["google-ads", "performance", "others"],
@@ -782,6 +805,7 @@ const projects = [
   },
   {
     id: 24,
+    slug: "k9-wellness-academy",
     title: "Unleashing Growth: Driving Local Bookings for a Premier Dog Academy",
     platform: "Google Ads",
     tags: ["google-ads", "performance"],
@@ -814,6 +838,7 @@ const projects = [
   },
   {
     id: 25,
+    slug: "ace-roofing-enterprises",
     title: "Above the Competition: Scaling a Roofing Business with Targeted Leads",
     platform: "Google Ads",
     tags: ["google-ads", "performance"],
@@ -846,6 +871,7 @@ const projects = [
   },
   {
     id: 26,
+    slug: "renovaplus",
     title: "Constructing Success: Generating High-Value Home Renovation Leads",
     platform: "Google Ads",
     tags: ["google-ads", "performance", "others"],
@@ -882,6 +908,7 @@ const projects = [
 
   {
     id: 27,
+    slug: "scape-threads",
     title: "Dominating the Streetwear Niche: A High-ROAS Meta Ads Campaign",
     platform: "Meta Ads",
     tags: ["meta-ads", "performance", "others"],
@@ -916,6 +943,7 @@ const projects = [
   },
   {
     id: 28,
+    slug: "cleaningpal",
     title: "Sparkling Results: Hyper-Local Lead Generation for a Home Cleaning Service",
     platform: "Meta Ads",
     tags: ["meta-ads", "performance"],
@@ -950,6 +978,7 @@ const projects = [
   },
   {
     id: 29,
+    slug: "arthur-bonnet",
     title: "Crafting Elegance: High-Value Lead Generation for a Luxury Kitchen Designer",
     platform: "Meta Ads",
     tags: ["meta-ads", "performance"],
@@ -984,6 +1013,7 @@ const projects = [
   },
   {
     id: 30,
+    slug: "bsb-lates",
     title: "Unlocking a Niche Market: Scaling a Men's Wellness Brand on Meta",
     platform: "Meta Ads",
     tags: ["meta-ads", "performance"],
@@ -1018,6 +1048,7 @@ const projects = [
   },
   {
     id: 31,
+    slug: "gamestorywriter",
     title: "Leveling Up: Driving SaaS Sign-ups for a Game Development Tool",
     platform: "Meta Ads",
     tags: ["meta-ads", "performance"],
@@ -1052,6 +1083,7 @@ const projects = [
   },
   {
     id: 32,
+    slug: "osprey-sports",
     title: "Peak Performance: Scaling an Outdoor Gear E-commerce Store with Dynamic Ads",
     platform: "Meta Ads",
     tags: ["meta-ads", "performance"],
@@ -1086,6 +1118,7 @@ const projects = [
   },
   {
     id: 33,
+    slug: "comfy-land",
     title: "Weaving Comfort into Profit: A Meta Ads Campaign for Home Goods",
     platform: "Meta Ads",
     tags: ["meta-ads", "performance", "others"],
@@ -1116,6 +1149,195 @@ const projects = [
       website: "https://comfy-land.com/",
       business: "A D2C e-commerce brand focused on high-quality home comfort goods, including blankets, pillows, and loungewear.",
       commitment: "A 3-month Meta Ads campaign focused on brand storytelling, e-commerce sales, and customer lifetime value optimization."
-    }
+    },
+  },
+  {
+  id: 34,
+  slug: "stellas-room-studio",
+  title: "Empowering Artists: A High-Performance Google Ads Campaign for Tattoo & PMU Training",
+  platform: "Google Ads",
+  tags: ["google-ads", "lead-generation", "beauty-industry"],
+  date: "October 2025",
+  description: "Built and managed a laser-focused Google Ads campaign for a luxury tattoo and permanent makeup training academy, achieving a 7.8x ROAS and doubling qualified leads within 30 days.",
+  
+  overview: "Stella’s Room Studio is a premier beauty and tattoo artistry academy based in DFW, Texas. They offer professional training in microblading, fine line tattooing, 3D areola tattooing, lip blushing, and nano brow artistry. The main goal was to increase enrollments for their training programs while maintaining cost-efficiency and local relevance.",
+  
+  approach: "The campaign began with in-depth keyword research around high-intent search terms like 'microblading training DFW' and 'fine line tattoo course'. I structured tightly themed search campaigns, each aligned to a specific service with custom ad copy and landing page extensions. Geographic targeting focused on the Dallas-Fort Worth metro area, ensuring only local, motivated prospects saw the ads. I optimized conversions through detailed ad testing, negative keyword curation, and smart bidding strategies (Maximize Conversions with TCPA). Retargeting was layered to capture visitors exploring training details but not yet ready to register.",
+  
+  stats: {
+    stat1: { value: "7.8x", label: "Return On Ad Spend (ROAS)" },
+    stat2: { value: "+125%", label: "Increase in Qualified Leads" },
+    stat3: { value: "-42%", label: "Cost Per Lead Reduction" }
+  },
+  
+  images: [
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/a.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/b.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/c.jpg"
+  ],
+  
+  evidence: [
+    { icon: "target", title: "Precision Local Targeting", description: "Geo-targeted the Dallas-Fort Worth area to ensure ad spend was focused on high-intent, nearby learners." },
+    { icon: "search", title: "Keyword Strategy for Training Enrollments", description: "Used a blend of exact and phrase match keywords around microblading, nano brows, and PMU training to capture professional learners." },
+    { icon: "bar-chart-3", title: "Conversion-Focused Optimization", description: "Implemented TCPA bidding, conversion tracking, and ad testing to refine performance week-over-week." }
+  ],
+  
+  results: [
+    { icon: "zap", title: "Rapid Lead Growth", description: "Generated consistent, qualified training inquiries within the first week of launch." },
+    { icon: "sparkles", title: "High ROI Campaign", description: "Delivered a 7.8x ROAS through efficient budget allocation and optimized ad creative." },
+    { icon: "user-check", title: "Brand Credibility Boost", description: "Increased visibility for the academy’s specialized courses, positioning Stella’s Room Studio as a leader in PMU education across Texas." }
+  ],
+  
+  testimonial: "I was blown away by how quickly the campaign started bringing in serious students. The ads perfectly captured what we offer - professional, creative, and empowering training. This was the best marketing decision we’ve made so far.",
+  clientName: "Stella Nguyen",
+  clientTitle: "Founder, Stella’s Room Studio",
+  
+  details: {
+    website: "https://stellasroomstudio.com/",
+    business: "A professional tattoo and permanent makeup studio and academy in Dallas-Fort Worth, offering expert-level beauty training and artistry services.",
+    commitment: "A 1-month Google Ads campaign focused on driving enrollments for tattoo and PMU training programs through local search optimization and smart bidding."
   }
+},
+{
+  id: 35,
+  slug: "serp-institute",
+  title: "Beyond Pageviews: Advanced GA4 & GTM Conversion Tracking for SERP Institute",
+  platform: "Google Analytics 4 & Tag Manager",
+  tags: ["analytics", "tracking", "data-engineering"],
+  date: "September 2025",
+  description: "Engineered a fully customized, event-driven analytics framework for SERP Institute using GA4 and GTM - transforming surface-level web metrics into rich, actionable behavioral insights.",
+  
+  overview: "SERP Institute is an education-focused organization dedicated to providing high-quality academic resources and professional development content online. Their website features a wide range of downloadable learning materials and audio-based lessons. The challenge was that traditional analytics only captured basic metrics - pageviews and simple events - offering little understanding of how users engaged with specific resources or media.",
+  
+  approach: "To deliver true behavioral intelligence, I architected a comprehensive GA4 + GTM event model capturing detailed user interactions with non-standard site elements. The project had two core pillars: enhanced file download tracking and HTML5 audio engagement measurement. For downloadable content, GTM was configured to dynamically log the exact file_name parameter (e.g., 'Student Booklet', 'Teacher Edition') for every file download event. This granular tracking allows SERP Institute to analyze content performance at a resource level. For media analytics, I developed a custom JavaScript listener integrated within GTM to detect user actions in embedded HTML5 audio players. These interactions push structured data - including playback status, audio title, duration, URL, and percent listened - to GA4, offering precise insight into how educational audio content is consumed.",
+  
+  stats: {
+    stat1: { value: "100%", label: "Granular File Tracking Coverage" },
+    stat2: { value: "+300%", label: "Increase in Actionable Insights" },
+    stat3: { value: "0 Data Gaps", label: "Full Event Reliability" }
+  },
+  
+  images: [
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/a.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/b.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/c.jpg"
+  ],
+  
+  evidence: [
+    { icon: "file-spreadsheet", title: "Enhanced File Download Tracking", description: "Configured GTM to dynamically record file_name for every resource download, enabling precise content performance analysis." },
+    { icon: "headphones", title: "HTML5 Audio Interaction Listener", description: "Developed a custom GTM listener for embedded audio elements to capture play, pause, completion, and engagement depth events." },
+    { icon: "activity", title: "Event-Driven Analytics Framework", description: "Created a robust data model pushing structured event parameters into GA4 for comprehensive, actionable behavior reporting." }
+  ],
+  
+  results: [
+    { icon: "bar-chart", title: "Deeper Behavioral Insight", description: "Unlocked advanced analytics revealing how educators and learners interact with digital resources." },
+    { icon: "database", title: "Data Integrity & Scalability", description: "Built a clean, scalable data layer structure ensuring consistent, reliable event tracking across future site updates." },
+    { icon: "lightbulb", title: "Informed Content Strategy", description: "Enabled the client to prioritize high-performing resources and optimize underutilized content using real behavioral data." }
+  ],
+  
+  testimonial: "We’ve never had this level of visibility into our content performance before. The new analytics system completely changed how we understand our audience and plan our resources. Brilliant, thorough, and technically flawless work.",
+  clientName: "Dr. Emma Reed",
+  clientTitle: "Director, SERP Institute",
+  
+  details: {
+    website: "https://www.serpinstitute.org/",
+    business: "An educational platform providing academic resources and professional training content to educators and students worldwide.",
+    commitment: "An advanced GA4 + GTM implementation project focused on behavioral analytics, event automation, and data-driven content optimization."
+  }
+},
+{
+  id: 36,
+  slug: "ra-plumbing-heating",
+  title: "From Cold Clicks to Hot Leads: A High-Converting Google Ads Funnel for Boiler Installations in Nottingham",
+  platform: "Google Ads",
+  tags: ["google-ads", "lead-generation", "home-services"],
+  date: "November 2025",
+  description: "Designed and optimized a performance-focused Google Ads funnel for RA Plumbing & Heating, turning a £50/day budget into a consistent stream of high-quality boiler installation leads within just one week.",
+  
+  overview: "RA Plumbing & Heating is a trusted Nottingham-based home services company specializing in boiler installation, heating repairs, and plumbing solutions across the UK. Despite having strong local reputation, their online lead generation was underperforming - limited reach, inconsistent conversions, and inefficient ad spend. The goal was simple yet powerful: build a paid acquisition system that delivers steady, qualified leads without wasting a pound of budget.",
+  
+  approach: "I began with an in-depth market and keyword analysis, zeroing in on high-intent local search terms such as 'boiler installation Nottingham', 'new boiler cost', and 'emergency boiler fitting near me'. Campaigns were structured into tightly themed ad groups focused on service type and urgency. Custom ad copy was crafted to emphasize reliability, quick response, and competitive pricing - the key emotional triggers for homeowners facing heating issues. I built a conversion funnel using dedicated landing pages optimized for lead capture and credibility (trust badges, reviews, and instant quote CTAs). Within the first 7 days, the campaign reached full performance stride, consistently generating quality inquiries at an exceptional cost-per-lead ratio.",
+  
+  stats: {
+    stat1: { value: "37+", label: "Qualified Leads in First Month" },
+    stat2: { value: "£50/day", label: "Optimized Daily Budget" },
+    stat3: { value: "-46%", label: "Cost Per Lead Reduction" }
+  },
+  
+  images: [
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/a.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/b.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/c.jpg"
+  ],
+  
+  evidence: [
+    { icon: "target", title: "Localized Keyword Precision", description: "Focused campaign strategy around Nottingham-area searches for 'boiler installation' and related service keywords with high purchase intent." },
+    { icon: "zap", title: "Conversion-Optimized Funnel", description: "Developed custom landing pages that turned search traffic into qualified inquiries through credibility cues and frictionless forms." },
+    { icon: "refresh-cw", title: "Continuous Optimization Cycle", description: "Monitored and refined ad copy, bidding, and negative keywords daily to improve conversion rates and lower CPL." }
+  ],
+  
+  results: [
+    { icon: "trending-up", title: "Strong ROI from Week One", description: "The campaign reached full performance within 7 days, delivering high-quality leads consistently throughout the month." },
+    { icon: "phone-call", title: "Increased Lead Volume", description: "Generated over 37 verified leads for boiler installation services, directly boosting the client’s monthly bookings." },
+    { icon: "bar-chart", title: "Optimized Spend Efficiency", description: "Maximized a modest £50 daily budget through precise targeting and smart bidding strategies that focused on conversion quality." }
+  ],
+  
+  testimonial: "I couldn’t believe how quickly the leads started coming in. Within the first week, we were already booking new installation jobs. The campaign paid for itself almost immediately - absolutely top-notch work!",
+  clientName: "Richard Allen",
+  clientTitle: "Owner, RA Plumbing & Heating",
+  
+  details: {
+    website: "https://raplumbingandheating.co.uk/",
+    business: "A Nottingham-based plumbing and heating company specializing in professional boiler installations, repairs, and heating solutions across the UK.",
+    commitment: "A 1-month Google Ads campaign focused on boiler installation lead generation through localized targeting, ad funnel optimization, and performance-driven budget management."
+  }
+},
+{
+  id: 37,
+  slug: "in-my-voice",
+  title: "10K Hearts in 30 Days: Explosive YouTube Growth for 'In My Voice - Lenora’s World of Stories & Music'",
+  platform: "YouTube Demand Gen Ads",
+  tags: ["youtube-ads", "demand-gen", "content-growth"],
+  date: "October 2025",
+  description: "Built and managed a precision-targeted Demand Gen campaign that grew a children's storytelling channel from a small base to over 10,000 engaged subscribers in just one month with a modest $5 daily budget.",
+  
+  overview: "In My Voice - Lenora’s World of Stories & Music is a heartfelt YouTube channel dedicated to inspiring children through stories, songs, and emotional learning. Each video nurtures kindness, confidence, and creativity while guiding parents with meaningful ways to connect. Despite having beautifully crafted content, the channel faced limited visibility and slow organic growth. The goal was to amplify reach, attract the right audience, and build a genuine, loyal community around Lenora’s mission.",
+  
+  approach: "The campaign began with a deep audience analysis to uncover where parents and children were already consuming similar educational and emotional development content. Using Google’s Demand Gen campaigns, I developed a multi-layered targeting structure based on interests, family-related demographics, and placement targeting on relevant storytelling and parenting channels. Ad creatives were optimized for engagement and emotional resonance, featuring short clips that reflected the warmth and positivity of Lenora’s brand. Careful budget pacing and constant creative testing ensured maximum visibility without overspend. Within seven days, engagement metrics began climbing sharply, and by the end of the first month, the channel had crossed the 10,000-subscriber milestone with thousands of meaningful interactions.",
+  
+  stats: {
+    stat1: { value: "10K+", label: "Subscribers in 30 Days" },
+    stat2: { value: "5 USD/day", label: "Optimized Budget" },
+    stat3: { value: "+180%", label: "Engagement Rate Increase" }
+  },
+  
+  images: [
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/a.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/b.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/c.jpg"
+  ],
+  
+  evidence: [
+    { icon: "youtube", title: "Smart Demand Gen Campaign", description: "Designed a high-performing YouTube Demand Gen strategy that delivered maximum reach and engagement for minimal spend." },
+    { icon: "target", title: "Advanced Placement Targeting", description: "Identified and placed ads on the most relevant parenting and storytelling channels to ensure perfect audience alignment." },
+    { icon: "sparkles", title: "Creative Optimization", description: "Tested and refined ad creatives for emotional resonance, resulting in higher watch time and subscriber conversion rates." }
+  ],
+  
+  results: [
+    { icon: "users", title: "Massive Subscriber Growth", description: "Achieved over 10,000 new subscribers within a single month, building a passionate and active community around the channel." },
+    { icon: "trending-up", title: "Explosive Visibility", description: "Significantly increased video impressions and views through highly relevant placements and keyword optimization." },
+    { icon: "heart", title: "Brand Love and Loyalty", description: "Boosted audience engagement and emotional connection, helping the channel become a trusted space for families and educators." }
+  ],
+  
+  testimonial: "This campaign transformed our channel. We reached thousands of families who genuinely connect with our message. The growth, engagement, and positivity that came from this strategy exceeded every expectation. It felt like the heart of our mission finally found its audience.",
+  clientName: "Lenora Grace",
+  clientTitle: "Founder & Voice Behind 'In My Voice'",
+  
+  details: {
+    website: "https://www.youtube.com/@inmyvoicekids",
+    business: "A YouTube channel dedicated to nurturing emotional intelligence, kindness, and confidence in children through stories, songs, and positive affirmations.",
+    commitment: "A 1-month YouTube Demand Gen campaign focused on subscriber growth, engagement optimization, and precise placement targeting to reach the perfect audience."
+  }
+}
+
 ];

@@ -26,8 +26,16 @@ body {
 }
 
 /* NEW: Styles for filter buttons */
-.filter-btn {
-    @apply px-4 py-2 text-sm font-semibold text-gray-600 bg-white border border-gray-200 rounded-full transition-all duration-300 hover:bg-gray-100 hover:border-gray-300;
+/* We rely mostly on Tailwind utility classes in the HTML now for the gradient fade effect. 
+   This ensures the active state has a nice drop shadow. */
+.filter-btn.active {
+    box-shadow: 0 10px 15px -3px rgba(59, 130, 246, 0.3), 0 4px 6px -2px rgba(59, 130, 246, 0.1);
+    transform: translateY(-1px);
+    border-color: transparent;
+}
+/* Custom Active State for the 'Featured' button (Golden Shadow) */
+.filter-btn.featured-btn.active {
+    box-shadow: 0 10px 15px -3px rgba(245, 158, 11, 0.4), 0 4px 6px -2px rgba(245, 158, 11, 0.2);
 }
 
 .filter-btn.active {

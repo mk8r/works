@@ -1,9 +1,19 @@
 // /projects/project-loader.js
 
 document.addEventListener('DOMContentLoaded', () => {
-    const params = new URLSearchParams(window.location.search);
-    const projectId = parseInt(params.get('id'));
-    const project = projects.find(p => p.id === projectId);
+    // OLD METHOD: const params = new URLSearchParams(window.location.search);
+    
+    // NEW METHOD: Get the hash from URL (e.g. "#merit-autos" -> "merit-autos")
+    // If no hash is present, fall back to search params for backwards compatibility
+    let projectIdOrSlug = window.location.hash.substring(1);
+    
+    if (!projectIdOrSlug) {
+         const params = new URLSearchParams(window.location.search);
+         projectIdOrSlug = params.get('id');
+    }
+
+    // Find project where slug matches string OR id matches number
+    const project = projects.find(p => p.slug === projectIdOrSlug || p.id == projectIdOrSlug);
 
     const projectContent = document.getElementById('project-content');
 
@@ -33,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }
 
-        // --- Populate Images (Corrected Code) ---
+        // --- Populate Images ---
         const imagesContainer = document.getElementById('project-images');
         imagesContainer.innerHTML = '';
         project.images.forEach(imgUrl => {

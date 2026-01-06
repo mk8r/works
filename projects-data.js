@@ -1171,9 +1171,9 @@ const projects = [
   },
   
   images: [
-    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/a.jpg",
-    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/b.jpg",
-    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/c.jpg"
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/stellasroomstudio/1.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/stellasroomstudio/2.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/stellasroomstudio/3.jpg"
   ],
   
   evidence: [
@@ -1218,9 +1218,10 @@ const projects = [
   },
   
   images: [
-    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/a.jpg",
-    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/b.jpg",
-    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/c.jpg"
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/serpinstitute/1.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/serpinstitute/2.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/serpinstitute/3.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/serpinstitute/4.jpg"
   ],
   
   evidence: [
@@ -1265,9 +1266,9 @@ const projects = [
   },
   
   images: [
-    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/a.jpg",
-    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/b.jpg",
-    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/c.jpg"
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/raplumbingandheating/1.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/raplumbingandheating/2.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/raplumbingandheating/3.jpg"
   ],
   
   evidence: [
@@ -1312,9 +1313,9 @@ const projects = [
   },
   
   images: [
-    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/a.jpg",
-    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/b.jpg",
-    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/demo/c.jpg"
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/inmyvoicekids/1.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/inmyvoicekids/2.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/inmyvoicekids/3.jpg"
   ],
   
   evidence: [
@@ -1338,6 +1339,926 @@ const projects = [
     business: "A YouTube channel dedicated to nurturing emotional intelligence, kindness, and confidence in children through stories, songs, and positive affirmations.",
     commitment: "A 1-month YouTube Demand Gen campaign focused on subscriber growth, engagement optimization, and precise placement targeting to reach the perfect audience."
   }
-}
+},
+{
+  id: 38,
+  slug: "lease-today-buy-later",
+  title: "Scaling Lease to Own Demand: High Performance WordPress Funnels with Google and Meta Ads",
+  platform: "Google Ads, Meta Ads, WordPress",
+  tags: ["google-ads", "meta-ads", "landing-pages", "real-estate", "lead-generation"],
+  date: "August 2025 to Present",
+  description: "Planned, designed, and scaled conversion focused WordPress landing pages alongside Google Ads and Meta Ads campaigns for Lease Today Buy Later, generating high quality homeowner and realtor leads at one of the lowest CPAs in the market.",
+  
+  overview: "Lease Today Buy Later is a rapidly growing lease to own real estate platform that connects homeowners, renters, and realtors through flexible property solutions. The business needed a full funnel digital acquisition system capable of educating multiple audiences, building trust quickly, and converting intent driven users in a competitive real estate environment. The primary goal was to achieve fast traction while maintaining exceptional lead quality and cost efficiency.",
+  
+  approach: "I developed two dedicated WordPress landing page funnels, one targeting homeowners and renters and another designed specifically for realtors. Each page was structured around clear value propositions, simplified messaging, and friction free lead capture. Performance focused Google Search and Meta Ads campaigns were launched with tightly segmented targeting and messaging aligned precisely with each audience. Advanced conversion tracking, creative testing, and audience refinement were managed continuously over three months, allowing CPA to decrease while lead volume and quality increased. Conversions began coming in on the second day after launch, confirming strong message and market alignment.",
+  
+  stats: {
+    stat1: { value: "Day 2", label: "First Conversions After Launch" },
+    stat2: { value: "Approx 60%", label: "Lower CPA Compared to Market Average" },
+    stat3: { value: "3+ Months", label: "Active Campaign Management" }
+  },
+  
+  images: [
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/leasetodaybuylater/1.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/leasetodaybuylater/2.jpg",
+    "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/leasetodaybuylater/3.jpg"
+  ],
+  
+  evidence: [
+    {
+      icon: "layout",
+      title: "High Converting WordPress Landing Pages",
+      description: "Built fast loading, mobile optimized landing pages for homeowners, renters, and realtors with strong trust elements and clear calls to action."
+    },
+    {
+      icon: "campaign",
+      title: "Multi Channel Paid Advertising Strategy",
+      description: "Executed Google Search and Meta Ads campaigns with audience specific targeting and messaging designed to attract high intent users."
+    },
+    {
+      icon: "optimization",
+      title: "Ongoing Performance Optimization",
+      description: "Continuously optimized bids, audiences, creatives, and conversion tracking to improve efficiency and reduce cost per acquisition."
+    }
+  ],
+  
+  results: [
+    {
+      icon: "growth",
+      title: "Rapid Conversion Momentum",
+      description: "Campaigns started producing qualified conversions within two days of launch and maintained consistent performance thereafter."
+    },
+    {
+      icon: "efficiency",
+      title: "Market Leading CPA",
+      description: "Achieved one of the lowest cost per acquisition benchmarks within the lease to own real estate segment."
+    },
+    {
+      icon: "leads",
+      title: "High Quality Lead Flow",
+      description: "Delivered a steady stream of serious homeowners, renters, and realtor enquiries ready for follow up and closing."
+    }
+  ],
+  
+  testimonial: "The results came in incredibly fast and the lead quality has been excellent. This has been one of the most efficient and profitable campaigns we have launched so far.",
+  clientName: "Lease Today Buy Later Team",
+  clientTitle: "Marketing and Growth",
+  
+  details: {
+    website: "https://portal.leasetodaybuylater.com/",
+    business: "A lease to own real estate platform helping homeowners, renters, and realtors access flexible property solutions.",
+    commitment: "Complete funnel execution including WordPress landing page development, Google Ads and Meta Ads setup, and ongoing campaign management for three months and continuing."
+  }
+},
+{
+    id: 39,
+    slug: "tortoyse-shopify-tracking",
+    title: "Precision Revenue Tracking for Shopify: Advanced Google Ads Data Layer and Payment Attribution",
+    platform: "Google Ads, Shopify",
+    tags: ["google-ads", "shopify", "conversion-tracking", "ecommerce"],
+    date: "September 2025",
+    description: "Implemented advanced level Google Ads conversion tracking for Tortoyse using a custom Shopify data layer and enhanced payment tracking to achieve accurate revenue attribution and smarter ad optimization.",
+    
+    overview: "Tortoyse is a modern ecommerce brand operating on Shopify with a strong focus on performance marketing through Google Ads. While traffic volume was healthy, the business lacked accurate visibility into real revenue, checkout behavior, and payment level conversions. This limited Google Ads optimization and made scaling risky. The goal was to implement a robust, future proof tracking system that captured true purchase value and user actions across the funnel.",
+    
+    approach: "I designed and deployed a custom Shopify data layer to capture key ecommerce events including product views, add to cart, checkout steps, and completed purchases. Advanced Google Ads conversion tracking was implemented with enhanced conversion values tied directly to payment confirmation events. I ensured accurate handling of multiple payment methods and verified event firing across devices and browsers. The new tracking setup enabled Google Ads to optimize based on real revenue signals rather than basic form or page load events.",
+    
+    stats: {
+      stat1: { value: "100%", label: "Accurate Purchase Tracking" },
+      stat2: { value: "Multi Step", label: "Checkout and Payment Events Tracked" },
+      stat3: { value: "Ready to Scale", label: "Data Driven Google Ads Optimization" }
+    },
+    
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/tortoyse/1.jpg"
+    ],
+    
+    evidence: [
+      {
+        icon: "tracking",
+        title: "Custom Shopify Data Layer",
+        description: "Built a clean and reliable data layer to expose ecommerce events and values required for advanced Google Ads tracking."
+      },
+      {
+        icon: "credit-card",
+        title: "Advanced Payment Attribution",
+        description: "Tracked completed payments accurately across different payment gateways to ensure reliable revenue reporting."
+      },
+      {
+        icon: "check",
+        title: "End to End Validation",
+        description: "Tested events across browsers, devices, and checkout flows to confirm accurate and consistent data collection."
+      }
+    ],
+    
+    results: [
+      {
+        icon: "insights",
+        title: "Reliable Revenue Signals",
+        description: "Google Ads optimization was powered by real purchase values instead of incomplete or inflated conversion data."
+      },
+      {
+        icon: "performance",
+        title: "Improved Campaign Decision Making",
+        description: "The business gained clear visibility into which campaigns and keywords were driving actual sales."
+      },
+      {
+        icon: "scale",
+        title: "Foundation for Scalable Growth",
+        description: "The tracking setup created a strong base for scaling ad spend with confidence and predictable returns."
+      }
+    ],
+    
+    testimonial: "The tracking setup completely changed how we understand our ads. We now see exactly what is driving real revenue and can scale with confidence.",
+    clientName: "Tortoyse Team",
+    clientTitle: "Ecommerce Operations",
+    
+    details: {
+      website: "https://tortoyse.com/",
+      business: "A Shopify based ecommerce brand focused on delivering premium products through performance driven marketing.",
+      commitment: "Advanced Google Ads conversion tracking implementation using a custom Shopify data layer and enhanced payment attribution."
+    }
+  },
+  {
+    id: 40,
+    slug: "lifeplus-investments-google-ads",
+    title: "Driving Qualified Investment Leads with High Performance Google Ads Campaigns",
+    platform: "Google Ads",
+    tags: ["google-ads", "lead-generation", "finance", "investment"],
+    date: "July 2025",
+    description: "Set up and managed Google Ads campaigns for LifePlus Investments with advanced conversion tracking, delivering high quality investment leads at a low cost per acquisition over a two month period.",
+    
+    overview: "LifePlus Investments is a financial services company focused on attracting serious investors and high intent enquiries. The business required a reliable lead generation system that prioritized quality over volume while maintaining strict cost efficiency. The main challenge was filtering out low intent traffic and ensuring only qualified prospects entered the sales pipeline.",
+    
+    approach: "I implemented accurate conversion tracking aligned with lead qualification signals and built tightly structured Google Search campaigns around high intent investment keywords. Ad copy was written to pre qualify users by setting clear expectations and highlighting credibility. Campaigns were actively managed and optimized over two months through search term analysis, bid adjustments, and negative keyword refinement to consistently improve lead quality and reduce CPA.",
+    
+    stats: {
+      stat1: { value: "2 Months", label: "Active Campaign Management" },
+      stat2: { value: "Low CPA", label: "Cost Efficient Lead Acquisition" },
+      stat3: { value: "High Intent", label: "Qualified Investment Leads" }
+    },
+    
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/lifeplusinvestments/1.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/lifeplusinvestments/2.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/lifeplusinvestments/3.jpg"
+    ],
+    
+    evidence: [
+      {
+        icon: "search",
+        title: "High Intent Keyword Targeting",
+        description: "Focused campaigns on investment related searches that indicated strong buying and enquiry intent."
+      },
+      {
+        icon: "filter",
+        title: "Lead Quality Control",
+        description: "Used ad messaging and negative keywords to reduce unqualified traffic and improve enquiry relevance."
+      },
+      {
+        icon: "tune",
+        title: "Continuous Campaign Optimization",
+        description: "Optimized bids, ads, and search terms weekly to improve performance and maintain low CPA."
+      }
+    ],
+    
+    results: [
+      {
+        icon: "leads",
+        title: "Qualified Lead Growth",
+        description: "Delivered a consistent flow of serious investment enquiries suitable for direct sales follow up."
+      },
+      {
+        icon: "efficiency",
+        title: "Sustained Low CPA",
+        description: "Maintained cost efficient acquisition while scaling lead volume during the management period."
+      },
+      {
+        icon: "confidence",
+        title: "Improved Sales Confidence",
+        description: "Provided the sales team with better quality leads, improving close rate potential."
+      }
+    ],
+    
+    testimonial: "The campaign brought us exactly the type of leads we were looking for. Quality improved significantly and costs stayed well under control.",
+    clientName: "LifePlus Investments Team",
+    clientTitle: "Business Development",
+    
+    details: {
+      website: "https://lifeplusinvestments.com/",
+      business: "A financial services company focused on investment opportunities and client wealth growth.",
+      commitment: "Google Ads conversion tracking setup, campaign creation, and performance management over a two month engagement."
+    }
+  },
+   {
+    id: 41,
+    slug: "ivo-b2b-mattress-leads",
+    title: "Scaling B2B Mattress Enquiries with Precision Google Ads and Conversion Tracking",
+    platform: "Google Ads",
+    tags: ["google-ads", "b2b", "conversion-tracking", "manufacturing"],
+    date: "October 2025",
+    description: "Implemented accurate conversion tracking and built high intent Google Ads campaigns for IVO, driving strong B2B mattress enquiries with consistent lead quality.",
+    
+    overview: "IVO is a European mattress manufacturer focused on B2B partnerships and bulk orders. The business required a structured paid acquisition system capable of attracting serious wholesale and commercial buyers rather than low intent retail traffic. The objective was to generate qualified B2B enquiries while maintaining cost efficiency and clean performance data.",
+    
+    approach: "I implemented reliable Google Ads conversion tracking aligned with qualified B2B enquiry actions. Campaigns were built around high intent commercial keywords related to mattress supply, manufacturing, and bulk purchasing. Ad messaging was designed to pre qualify users by emphasizing wholesale volumes, business partnerships, and commercial use cases. Ongoing campaign management focused on search term refinement, bid optimization, and budget allocation toward the best performing segments.",
+    
+    stats: {
+      stat1: { value: "B2B Focused", label: "Commercial Lead Strategy" },
+      stat2: { value: "Consistent", label: "Qualified Enquiry Flow" },
+      stat3: { value: "Optimized", label: "Cost Efficient CPA" }
+    },
+    
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/ivo/1.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/ivo/2.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/ivo/3.jpg"
+    ],
+    
+    evidence: [
+      {
+        icon: "factory",
+        title: "B2B Specific Campaign Structure",
+        description: "Campaigns were designed to attract wholesale and commercial mattress buyers rather than retail customers."
+      },
+      {
+        icon: "target",
+        title: "Accurate Conversion Tracking",
+        description: "Tracked qualified enquiry actions to ensure Google Ads optimized toward real business opportunities."
+      },
+      {
+        icon: "optimize",
+        title: "Ongoing Performance Optimization",
+        description: "Continuously refined keywords, bids, and negatives to improve lead quality and reduce wasted spend."
+      }
+    ],
+    
+    results: [
+      {
+        icon: "leads",
+        title: "High Quality B2B Enquiries",
+        description: "Generated consistent inbound enquiries from businesses interested in bulk mattress solutions."
+      },
+      {
+        icon: "efficiency",
+        title: "Improved Cost Control",
+        description: "Maintained efficient CPA while scaling visibility in competitive B2B search terms."
+      },
+      {
+        icon: "growth",
+        title: "Stronger Sales Pipeline",
+        description: "Provided the sales team with reliable and relevant leads for partnership discussions."
+      }
+    ],
+    
+    testimonial: "The quality of enquiries improved significantly. We started receiving exactly the type of B2B leads we needed for growth.",
+    clientName: "IVO Team",
+    clientTitle: "Sales and Partnerships",
+    
+    details: {
+      website: "https://ivo.lt/",
+      business: "A mattress manufacturer focused on B2B supply and commercial partnerships.",
+      commitment: "Google Ads conversion tracking setup, campaign creation, and ongoing optimization."
+    }
+  },
+  {
+    id: 42,
+    slug: "enjoy-automaten-sales-growth",
+    title: "High Value Ecommerce Sales with Limited Budget Using Advanced Google Ads Tracking",
+    platform: "Google Ads",
+    tags: ["google-ads", "ecommerce", "conversion-tracking", "retail"],
+    date: "September 2025",
+    description: "Delivered strong ecommerce sales for Enjoy Automaten by implementing advanced conversion tracking and managing Google Ads campaigns within a limited monthly budget.",
+    
+    overview: "Enjoy Automaten is a German ecommerce business selling high value automated products. The challenge was to achieve profitable sales with a restricted advertising budget while maintaining accurate tracking of purchases and revenue. The focus was on extracting maximum performance from every euro spent.",
+    
+    approach: "I implemented advanced Google Ads conversion tracking to capture complete purchase and revenue data. Campaigns were structured around high intent product keywords with careful budget distribution. Ads highlighted product value and reliability to attract serious buyers. Over a one month management period, campaigns were actively optimized through bid adjustments, search term analysis, and budget reallocation toward top converting products.",
+    
+    stats: {
+      stat1: { value: "1 Month", label: "Active Campaign Management" },
+      stat2: { value: "Limited Budget", label: "Efficient Spend Strategy" },
+      stat3: { value: "High Value", label: "Product Sales Generated" }
+    },
+    
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/enjoy-automaten/1.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/enjoy-automaten/2.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/enjoy-automaten/3.jpg"
+    ],
+    
+    evidence: [
+      {
+        icon: "cart",
+        title: "Advanced Ecommerce Tracking",
+        description: "Tracked full purchase values to give Google Ads accurate revenue signals for optimization."
+      },
+      {
+        icon: "budget",
+        title: "Smart Budget Allocation",
+        description: "Focused spend on top performing products and keywords to maximize return."
+      },
+      {
+        icon: "speed",
+        title: "Rapid Performance Optimization",
+        description: "Improved results quickly through daily monitoring and adjustments."
+      }
+    ],
+    
+    results: [
+      {
+        icon: "sales",
+        title: "Strong Sales Performance",
+        description: "Generated high value product sales despite strict budget limitations."
+      },
+      {
+        icon: "roi",
+        title: "Efficient Return on Ad Spend",
+        description: "Extracted strong returns by prioritizing profitable products and queries."
+      },
+      {
+        icon: "stability",
+        title: "Predictable Performance",
+        description: "Maintained consistent conversions throughout the campaign period."
+      }
+    ],
+    
+    testimonial: "The results exceeded expectations given our budget. Sales came in consistently and tracking was extremely accurate.",
+    clientName: "Enjoy Automaten Team",
+    clientTitle: "Ecommerce Management",
+    
+    details: {
+      website: "https://enjoy-automaten.de/",
+      business: "An ecommerce retailer offering automated and high value products in Germany.",
+      commitment: "Advanced conversion tracking, Google Ads setup, and one month of campaign management."
+    }
+  },
+  {
+    id: 43,
+    slug: "aspirehub-ppc-growth",
+    title: "Driving PPC Growth with Advanced Data Layer Tracking and Multi Segment Google Ads",
+    platform: "Google Ads",
+    tags: ["google-ads", "conversion-tracking", "ppc", "lead-generation"],
+    date: "November 2025",
+    description: "Implemented advanced data layer based conversion tracking and launched multiple Google Ads campaigns for AspireHub, resulting in a strong increase in qualified PPC conversions.",
+    
+    overview: "AspireHub is a growth focused business relying heavily on paid search to acquire qualified leads. The main challenge was fragmented tracking data and underperforming campaigns due to limited audience segmentation. The goal was to build a clean data foundation and expand reach through structured campaign targeting.",
+    
+    approach: "I implemented advanced data layer based conversion tracking to capture meaningful user actions with high accuracy. Multiple Google Ads campaigns were launched using match focused keyword strategies along with area wise targeting to improve relevance. Campaigns were optimized continuously through performance analysis, bid tuning, and audience refinement, leading to a steady improvement in conversion volume and efficiency.",
+    
+    stats: {
+      stat1: { value: "Advanced", label: "Data Layer Tracking Setup" },
+      stat2: { value: "Multiple", label: "Campaign Structures Launched" },
+      stat3: { value: "Increased", label: "PPC Conversion Volume" }
+    },
+    
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/aspirehub/1.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/aspirehub/2.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/aspirehub/3.jpg"
+    ],
+    
+    evidence: [
+      {
+        icon: "layers",
+        title: "Advanced Data Layer Tracking",
+        description: "Captured detailed conversion signals to give Google Ads better optimization inputs."
+      },
+      {
+        icon: "map",
+        title: "Area Wise Campaign Targeting",
+        description: "Launched geo focused campaigns to increase relevance and conversion probability."
+      },
+      {
+        icon: "match",
+        title: "Match Focused Keyword Strategy",
+        description: "Used precise keyword match types to control traffic quality and intent."
+      }
+    ],
+    
+    results: [
+      {
+        icon: "uplift",
+        title: "Improved PPC Performance",
+        description: "Achieved a noticeable increase in qualified conversions across campaigns."
+      },
+      {
+        icon: "control",
+        title: "Better Traffic Quality",
+        description: "Reduced wasted spend by focusing on high intent searches and locations."
+      },
+      {
+        icon: "scale",
+        title: "Scalable Campaign Framework",
+        description: "Created a structure that supports future growth and budget scaling."
+      }
+    ],
+    
+    testimonial: "The tracking and campaign structure gave us much better control over our PPC efforts and results improved steadily.",
+    clientName: "AspireHub Team",
+    clientTitle: "Marketing Operations",
+    
+    details: {
+      website: "https://www.aspirehub.com/",
+      business: "A growth driven business using PPC marketing to generate qualified leads.",
+      commitment: "Advanced data layer conversion tracking, Google Ads campaign setup, and ongoing optimization."
+    }
+  },
+  {
+    id: 44,
+    slug: "dubai-car-rent-google-ads",
+    title: "Bookings on Autopilot",
+    platform: "Google Ads",
+    tags: ["google-ads", "lead-generation", "travel", "car-rental"],
+    date: "September 2025",
+    description: "Built and optimized a Google Ads system for Dubai Car Rent that drove high intent WhatsApp booking leads while lowering both CPA and CPC within two months.",
+    
+    overview: "Dubai Car Rent operates in one of the most competitive car rental markets in the UAE, where speed, convenience, and mobile first communication matter most. The business needed a reliable way to generate direct booking enquiries through WhatsApp while keeping acquisition costs under control.",
+    
+    approach: "I implemented accurate conversion tracking focused on WhatsApp click and enquiry events to capture true booking intent. Google Search campaigns were structured around high intent rental keywords with strong location modifiers. Ads emphasized instant booking, flexible options, and local availability. Over two months, campaigns were optimized through bid refinement, search term control, and ad testing, resulting in lower CPC and stronger lead quality.",
+    
+    stats: {
+      stat1: { value: "2 Months", label: "Campaign Management" },
+      stat2: { value: "Low CPA", label: "WhatsApp Booking Leads" },
+      stat3: { value: "Reduced", label: "Cost Per Click" }
+    },
+    
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/dubaicarrent/1.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/dubaicarrent/2.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/dubaicarrent/3.jpg"
+    ],
+    
+    evidence: [
+      {
+        icon: "message",
+        title: "WhatsApp Focused Tracking",
+        description: "Tracked real booking intent by measuring WhatsApp enquiries instead of low value page interactions."
+      },
+      {
+        icon: "map-pin",
+        title: "High Intent Local Targeting",
+        description: "Captured users actively searching for car rentals in Dubai with strong booking signals."
+      },
+      {
+        icon: "trend-down",
+        title: "Cost Efficiency Optimization",
+        description: "Reduced CPC and CPA through continuous keyword and bid optimization."
+      }
+    ],
+    
+    results: [
+      {
+        icon: "calendar",
+        title: "Consistent Booking Enquiries",
+        description: "Delivered a steady flow of WhatsApp booking leads ready for immediate conversion."
+      },
+      {
+        icon: "wallet",
+        title: "Lower Acquisition Costs",
+        description: "Achieved strong cost control despite operating in a highly competitive market."
+      },
+      {
+        icon: "phone",
+        title: "Faster Customer Response",
+        description: "Enabled direct communication between customers and the business via WhatsApp."
+      }
+    ],
+    
+    testimonial: "We started getting serious booking enquiries quickly and our costs dropped noticeably. WhatsApp leads made the process very easy for us.",
+    clientName: "Dubai Car Rent Team",
+    clientTitle: "Operations",
+    
+    details: {
+      website: "https://dubaicarrent.com/",
+      business: "A Dubai based car rental company offering flexible rental solutions for residents and tourists.",
+      commitment: "Google Ads conversion tracking, campaign setup, and optimization over a two month period."
+    }
+  },
+  {
+    id: 45,
+    slug: "zeffert-and-gold-google-ads",
+    title: "Premium Leads on a Smart Budget",
+    platform: "Google Ads",
+    tags: ["google-ads", "lead-generation", "professional-services"],
+    date: "October 2025",
+    description: "Delivered high quality conversions for Zeffert and Gold using advanced tracking and Google Ads campaigns powered by a controlled monthly budget.",
+    
+    overview: "Zeffert and Gold is a professional services firm where lead quality is far more important than lead volume. With a fixed monthly budget of 1500 dollars, the goal was to generate serious enquiries while avoiding wasted spend.",
+    
+    approach: "I implemented advanced conversion tracking to capture only meaningful lead actions. Campaigns were built around high intent service related keywords with carefully written ads to pre qualify users. Budget allocation and bidding were optimized weekly to ensure the spend was concentrated on the best performing queries and locations.",
+    
+    stats: {
+      stat1: { value: "$1500", label: "Monthly Ad Budget" },
+      stat2: { value: "Low CPA", label: "Qualified Conversions" },
+      stat3: { value: "Consistent", label: "Lead Quality" }
+    },
+    
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/zeffertandgold/1.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/zeffertandgold/2.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/zeffertandgold/3.jpg"
+    ],
+    
+    evidence: [
+      {
+        icon: "filter",
+        title: "Advanced Lead Tracking",
+        description: "Tracked only high intent actions to keep Google Ads focused on real opportunities."
+      },
+      {
+        icon: "budget",
+        title: "Controlled Spend Strategy",
+        description: "Maximized results from a fixed budget through smart allocation and bidding."
+      },
+      {
+        icon: "shield",
+        title: "Quality First Messaging",
+        description: "Used ad copy to filter out low intent users before they clicked."
+      }
+    ],
+    
+    results: [
+      {
+        icon: "star",
+        title: "High Quality Enquiries",
+        description: "Generated serious leads aligned with the firm’s ideal client profile."
+      },
+      {
+        icon: "efficiency",
+        title: "Strong Cost Control",
+        description: "Maintained low CPA while staying within a strict monthly budget."
+      },
+      {
+        icon: "confidence",
+        title: "Predictable Lead Flow",
+        description: "Provided consistent performance without budget spikes."
+      }
+    ],
+    
+    testimonial: "The quality of leads was exactly what we needed and the budget was used very efficiently.",
+    clientName: "Zeffert and Gold Team",
+    clientTitle: "Management",
+    
+    details: {
+      website: "http://www.zeffertandgold.com/",
+      business: "A professional services firm focused on delivering high value client solutions.",
+      commitment: "Advanced conversion tracking and Google Ads campaign setup with ongoing optimization."
+    }
+  },
+  {
+    id: 46,
+    slug: "my-eves-eden-product-sales",
+    title: "Scaling Best Sellers Fast",
+    platform: "Google Ads",
+    tags: ["google-ads", "ecommerce", "product-sales"],
+    date: "August 2025",
+    description: "Generated strong ecommerce sales for My Eve’s Eden by focusing Google Ads spend on two priority products with accurate conversion tracking and tight optimization.",
+    
+    overview: "My Eve’s Eden is an ecommerce brand with multiple products, but two key items were identified as top revenue drivers. The objective was to maximize sales for these products within a one month management window while keeping CPA low.",
+    
+    approach: "I implemented accurate purchase conversion tracking and built focused Google Ads campaigns around the two highlighted products. Search terms, bids, and ads were optimized daily to concentrate spend on high converting queries. Messaging emphasized product benefits and urgency to drive faster purchase decisions.",
+    
+    stats: {
+      stat1: { value: "1 Month", label: "Campaign Management" },
+      stat2: { value: "Low CPA", label: "Product Sales" },
+      stat3: { value: "Focused", label: "Top Two Products" }
+    },
+    
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/myeveseden/1.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/myeveseden/2.jpg"
+    ],
+    
+    evidence: [
+      {
+        icon: "cart",
+        title: "Accurate Purchase Tracking",
+        description: "Tracked real sales value to guide campaign optimization."
+      },
+      {
+        icon: "target",
+        title: "Product Focused Campaigns",
+        description: "Dedicated campaigns ensured budget was spent only on top sellers."
+      },
+      {
+        icon: "clock",
+        title: "Rapid Optimization Cycle",
+        description: "Daily adjustments improved performance within a short timeframe."
+      }
+    ],
+    
+    results: [
+      {
+        icon: "sales",
+        title: "Strong Sales Volume",
+        description: "Delivered consistent purchases for the highlighted products."
+      },
+      {
+        icon: "trend-down",
+        title: "Low Cost Per Sale",
+        description: "Maintained efficient CPA throughout the campaign."
+      },
+      {
+        icon: "clarity",
+        title: "Clear Performance Insights",
+        description: "Identified winning products and keywords for future scaling."
+      }
+    ],
+    
+    testimonial: "Focusing on our best products made a big difference. Sales improved quickly and costs stayed low.",
+    clientName: "My Eve’s Eden Team",
+    clientTitle: "Ecommerce Operations",
+    
+    details: {
+      website: "https://myeveseden.com/",
+      business: "An ecommerce brand offering curated lifestyle and wellness products.",
+      commitment: "Conversion tracking setup and one month of Google Ads management."
+    }
+  },
+  {
+    id: 47,
+    slug: "powerhouse-energy-lead-growth",
+    title: "Quality Leads on Lean Spend",
+    platform: "Google Ads",
+    tags: ["google-ads", "lead-generation", "energy"],
+    date: "November 2025",
+    description: "Built and managed Google Ads campaigns for Powerhouse Energy that delivered high quality leads using a low monthly budget over two months.",
+    
+    overview: "Powerhouse Energy operates in a competitive energy services space where trust and lead quality are critical. The business needed a cost effective paid search strategy that could deliver serious enquiries without heavy ad spend.",
+    
+    approach: "I implemented accurate lead conversion tracking and launched tightly structured Google Search campaigns focused on high intent energy related keywords. Ads were written to attract informed prospects and filter out low quality traffic. Campaigns were optimized continuously to protect budget efficiency while maintaining lead volume.",
+    
+    stats: {
+      stat1: { value: "2 Months", label: "Campaign Management" },
+      stat2: { value: "Low Budget", label: "Efficient Lead Generation" },
+      stat3: { value: "High Quality", label: "Inbound Leads" }
+    },
+    
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/powerhouseenergytx/1.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/powerhouseenergytx/2.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/powerhouseenergytx/3.jpg"
+    ],
+    
+    evidence: [
+      {
+        icon: "leaf",
+        title: "Energy Specific Targeting",
+        description: "Focused campaigns on users actively searching for energy solutions."
+      },
+      {
+        icon: "check",
+        title: "Reliable Conversion Tracking",
+        description: "Measured only meaningful enquiry actions."
+      },
+      {
+        icon: "scale",
+        title: "Budget First Optimization",
+        description: "Protected performance while working within budget limits."
+      }
+    ],
+    
+    results: [
+      {
+        icon: "leads",
+        title: "Qualified Lead Delivery",
+        description: "Generated enquiries suitable for direct sales follow up."
+      },
+      {
+        icon: "wallet",
+        title: "Cost Efficient Performance",
+        description: "Kept acquisition costs low without sacrificing quality."
+      },
+      {
+        icon: "foundation",
+        title: "Scalable Campaign Base",
+        description: "Built a structure ready for future growth."
+      }
+    ],
+    
+    testimonial: "We received quality leads without overspending. The campaigns were managed very efficiently.",
+    clientName: "Powerhouse Energy Team",
+    clientTitle: "Marketing",
+    
+    details: {
+      website: "https://powerhouseenergytx.com/",
+      business: "An energy services company focused on delivering efficient power solutions.",
+      commitment: "Conversion tracking, Google Ads setup, and campaign management over two months."
+    }
+  },
+  {
+    id: 48,
+    slug: "nugen-homes-buyer-leads",
+    title: "Buyer Ready Leads at Scale",
+    platform: "Google Ads",
+    tags: ["google-ads", "real-estate", "lead-generation"],
+    date: "June 2025 to August 2025",
+    description: "Built a data driven Google Ads system for Nugen Homes that consistently attracted serious home buyers and delivered top quality leads over a three month campaign period.",
+    
+    overview: "Nugen Homes operates in a competitive real estate market where attracting serious buyers is critical for sales efficiency. The business needed more than just traffic. They required verified buyer intent, clean tracking, and predictable lead flow that their sales team could trust.",
+    
+    approach: "I implemented advanced conversion tracking aligned with buyer focused actions such as enquiry submissions and contact intent. Google Ads campaigns were structured using high intent home buying keywords with location focused targeting. Ad copy was written to attract motivated buyers and discourage low intent clicks. Campaigns were actively managed for three months with continuous optimization based on conversion data and lead quality feedback.",
+    
+    stats: {
+      stat1: { value: "3 Months", label: "Campaign Management" },
+      stat2: { value: "High Intent", label: "Home Buyer Leads" },
+      stat3: { value: "Optimized", label: "Cost Per Lead" }
+    },
+    
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/nugenhomes/1.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/nugenhomes/2.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/nugenhomes/3.jpg"
+    ],
+    
+    evidence: [
+      {
+        icon: "home",
+        title: "Buyer Focused Tracking",
+        description: "Tracked only meaningful buyer actions to ensure campaigns optimized for real purchase intent."
+      },
+      {
+        icon: "map",
+        title: "Location Driven Targeting",
+        description: "Focused on buyers actively searching for homes in specific service areas."
+      },
+      {
+        icon: "chart",
+        title: "Data Led Optimization",
+        description: "Used conversion data to continuously refine bids, keywords, and ads."
+      }
+    ],
+    
+    results: [
+      {
+        icon: "leads",
+        title: "Consistent Buyer Enquiries",
+        description: "Delivered a steady flow of serious home buyer leads ready for follow up."
+      },
+      {
+        icon: "quality",
+        title: "Improved Lead Quality",
+        description: "Reduced unqualified enquiries by aligning ads with buyer intent."
+      },
+      {
+        icon: "growth",
+        title: "Stronger Sales Pipeline",
+        description: "Helped the sales team focus on leads with higher close potential."
+      }
+    ],
+    
+    testimonial: "The lead quality improved dramatically. We started getting enquiries from buyers who were genuinely ready to move forward.",
+    clientName: "Nugen Homes Team",
+    clientTitle: "Sales and Marketing",
+    
+    details: {
+      website: "http://nugenhomes.com/",
+      business: "A residential real estate company focused on delivering quality homes to serious buyers.",
+      commitment: "Advanced conversion tracking and Google Ads campaign setup with three months of active management."
+    }
+  },
+  {
+    id: 49,
+    slug: "pure-baby-gallery-tracking",
+    title: "Clean Data for Smarter Growth",
+    platform: "Google Ads, GA4",
+    tags: ["google-ads", "ga4", "ecommerce", "conversion-tracking"],
+    date: "July 2025",
+    description: "Implemented advanced GA4 and Google Ads conversion tracking for Pure Baby Gallery, creating a reliable foundation for scalable ecommerce growth.",
+    
+    overview: "Pure Baby Gallery is an ecommerce brand where accurate data is essential for profitable advertising. The business needed clear visibility into user behavior, purchases, and conversion paths before scaling paid campaigns.",
+    
+    approach: "I implemented advanced GA4 tracking integrated with Google Ads to capture key ecommerce events including product views, add to cart actions, and completed purchases. Conversion events were validated and aligned across platforms to ensure consistent reporting. Google Ads campaigns were then structured using this clean data foundation to support smarter optimization.",
+    
+    stats: {
+      stat1: { value: "GA4", label: "Advanced Tracking Setup" },
+      stat2: { value: "Accurate", label: "Purchase Attribution" },
+      stat3: { value: "Ready", label: "For Campaign Scaling" }
+    },
+    
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/purebabygallery/1.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/purebabygallery/2.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/purebabygallery/3.jpg"
+    ],
+    
+    evidence: [
+      {
+        icon: "data",
+        title: "GA4 Ecommerce Events",
+        description: "Tracked full customer journey events to understand buyer behavior."
+      },
+      {
+        icon: "sync",
+        title: "Google Ads Integration",
+        description: "Aligned GA4 and Google Ads conversions for consistent optimization."
+      },
+      {
+        icon: "check",
+        title: "Tracking Validation",
+        description: "Verified events across devices and browsers for accuracy."
+      }
+    ],
+    
+    results: [
+      {
+        icon: "clarity",
+        title: "Reliable Performance Data",
+        description: "Provided accurate insights into what drives sales."
+      },
+      {
+        icon: "confidence",
+        title: "Better Campaign Decisions",
+        description: "Enabled data backed optimization instead of guesswork."
+      },
+      {
+        icon: "foundation",
+        title: "Scalable Growth Setup",
+        description: "Created a strong base for future advertising expansion."
+      }
+    ],
+    
+    testimonial: "We finally have clean and reliable data. It made a big difference in how we plan our marketing.",
+    clientName: "Pure Baby Gallery Team",
+    clientTitle: "Ecommerce Management",
+    
+    details: {
+      website: "https://purebabygallery.co.za/",
+      business: "An ecommerce store offering premium baby products with a focus on quality and trust.",
+      commitment: "Advanced GA4 and Google Ads conversion tracking with campaign setup."
+    }
+  },
+  {
+    id: 50,
+    slug: "canadian-garage-doors-multichannel",
+    title: "Calls That Turn Into Jobs",
+    platform: "Google Ads, Meta Ads, GA4",
+    tags: ["google-ads", "meta-ads", "local-services", "lead-generation"],
+    date: "May 2025 to July 2025",
+    description: "Delivered high volume, high quality leads and work hour phone calls for CA Garage Doors using advanced multi platform tracking and paid ad campaigns.",
+    
+    overview: "CA Garage Doors is a local service business where calls and enquiries directly translate into booked jobs. The challenge was to track real lead actions accurately across platforms while generating consistent demand within business hours.",
+    
+    approach: "I implemented advanced conversion tracking across Google Ads, Meta Ads, and GA4, focusing on form submissions, calls, and work hour phone interactions. Campaigns were launched on both Google and Meta with service specific targeting and strong local intent messaging. Over three months, campaigns were optimized to prioritize lead quality, call relevance, and cost efficiency.",
+    
+    stats: {
+      stat1: { value: "3 Months", label: "Campaign Management" },
+      stat2: { value: "High Volume", label: "Qualified Leads and Calls" },
+      stat3: { value: "Low CPA", label: "Cost Efficient Results" }
+    },
+    
+    images: [
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/cagaragedoors/1.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/cagaragedoors/2.jpg",
+      "https://raw.githubusercontent.com/mk8r/p-image/refs/heads/main/cagaragedoors/3.jpg"
+    ],
+    
+    evidence: [
+      {
+        icon: "phone",
+        title: "Work Hour Call Tracking",
+        description: "Tracked only valuable calls made during business hours."
+      },
+      {
+        icon: "layers",
+        title: "Multi Platform Tracking",
+        description: "Unified conversion tracking across Google Ads, Meta Ads, and GA4."
+      },
+      {
+        icon: "local",
+        title: "Local Intent Campaigns",
+        description: "Targeted users actively searching for garage door services."
+      }
+    ],
+    
+    results: [
+      {
+        icon: "jobs",
+        title: "Job Ready Leads",
+        description: "Generated enquiries that converted into real service bookings."
+      },
+      {
+        icon: "efficiency",
+        title: "Strong Cost Control",
+        description: "Maintained low acquisition costs across platforms."
+      },
+      {
+        icon: "momentum",
+        title: "Sustained Lead Flow",
+        description: "Delivered consistent performance throughout the engagement."
+      }
+    ],
+    
+    testimonial: "The calls and leads were exactly what we needed. Most enquiries turned into real jobs for our team.",
+    clientName: "CA Garage Doors Team",
+    clientTitle: "Operations",
+    
+    details: {
+      website: "https://www.cagaragedoors.ca/",
+      business: "A local garage door service provider focused on installations and repairs.",
+      commitment: "Advanced conversion tracking, Google Ads and Meta Ads setup, and three months of campaign management."
+    }
+  }
 
 ];

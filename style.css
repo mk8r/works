@@ -50,3 +50,114 @@ body {
 .skill-pill {
     @apply bg-blue-100 text-blue-800 px-3 py-1.5 rounded-full text-sm font-medium;
 }
+
+
+/* /style.css */
+
+/* Niche Filter Buttons */
+.niche-btn {
+    padding: 0.5rem 1rem;
+    border-radius: 9999px; /* Pill shape */
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #64748b; /* Slate-500 */
+    background-color: #f1f5f9; /* Slate-100 */
+    border: 1px solid transparent;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.niche-btn:hover {
+    background-color: #e2e8f0; /* Slate-200 */
+    color: #334155;
+}
+
+/* Active State for Niche Buttons */
+.niche-btn.active {
+    background-color: #3b82f6; /* Blue-500 */
+    color: white;
+    box-shadow: 0 4px 6px -1px rgba(59, 130, 246, 0.3);
+}
+
+/* Hide the industry section when "All" is active if you prefer cleaner look, 
+   or keep it always visible. Currently setup to always be visible. */
+
+
+   /* /style.css */
+
+/* Horizontal Scroll Container for Mobile */
+.niche-scroll-container {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    gap: 0.5rem;
+    padding-bottom: 0.5rem; /* Space for touch scroll */
+    -webkit-overflow-scrolling: touch; /* Smooth scroll on iOS */
+    scrollbar-width: none; /* Firefox: Hide scrollbar */
+    -ms-overflow-style: none; /* IE: Hide scrollbar */
+    justify-content: flex-start; /* Align left on mobile */
+}
+
+/* Hide scrollbar for Chrome/Safari/Edge */
+.niche-scroll-container::-webkit-scrollbar {
+    display: none;
+}
+
+/* Desktop: Center the buttons and wrap them if needed */
+@media (min-width: 768px) {
+    .niche-scroll-container {
+        justify-content: center;
+        flex-wrap: wrap;
+        overflow-x: visible;
+    }
+}
+
+/* Ensure buttons don't squish on mobile */
+.niche-btn {
+    flex-shrink: 0; 
+    /* ... keep your existing .niche-btn styles here ... */
+    padding: 0.5rem 1rem;
+    border-radius: 9999px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #64748b;
+    background-color: #f1f5f9;
+    border: 1px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.niche-btn.active {
+    background-color: #3b82f6;
+    color: white;
+    box-shadow: 0 4px 6px -1px rgba(59, 130, 246, 0.3);
+}
+
+/* /style.css */
+
+/* Loading Spinner Animation */
+.loader {
+    border: 3px solid #f3f3f3; /* Light grey */
+    border-top: 3px solid #3b82f6; /* Blue */
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    animation: spin 1s linear infinite;
+    margin: 0 auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Hide loader by default */
+.loader-container {
+    display: none; /* Hidden by default */
+    width: 100%;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.loader-container.visible {
+    display: block;
+}

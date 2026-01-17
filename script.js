@@ -3,6 +3,12 @@
 document.addEventListener('DOMContentLoaded', () => {
     lucide.createIcons();
 
+
+    // --- Dynamic Footer Year ---
+    const yearSpan = document.getElementById('current-year');
+    if (yearSpan) {
+        yearSpan.textContent = new Date().getFullYear();
+    }
     // ==========================================
     // 1. NICHE CONFIGURATION
     // ==========================================

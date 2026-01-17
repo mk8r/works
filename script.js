@@ -148,7 +148,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 <div class="flex justify-between items-center mt-auto pt-4 border-t border-gray-100">
                     <span class="text-xs text-gray-500 font-medium">${project.date}</span>
-                    <a href="projects/index.html#${projectIdentifier}" class="text-blue-500 hover:underline font-semibold">View Details →</a>
+                    <a href="projects/#${projectIdentifier}" class="text-blue-500 hover:underline font-semibold">View Details →</a>
                 </div>
             </div>
         `;
